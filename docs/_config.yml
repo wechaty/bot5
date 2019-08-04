@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Bot Friday"
+  name   : "Bot5"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Bot Friday is a club for bot builders and entrepreneurs."
   links:
