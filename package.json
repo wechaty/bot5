@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/chatie/mm-github-pages-starter#readme",
   "devDependencies": {
-    "@chatie/eslint-config": "^0.6.13",
+    "@chatie/eslint-config": "^0.8.1",
     "@chatie/git-scripts": "^0.2.5",
     "@chatie/tsconfig": "^0.6.1",
     "@types/glob": "^7.1.1",
