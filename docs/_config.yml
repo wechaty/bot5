@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: chatieio
 github_username: wechaty
 minimal_mistakes_skin: default
-teaser: /assets/images/bio-photo.jpg
+teaser: /assets/images/bio-photo.png
 search: true
 
 # Build settings
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Bot Friday"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Bot Friday is a CLUB for bot builders and entrepreneurs."
   links:
     - label: "Website"
