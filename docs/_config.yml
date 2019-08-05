@@ -97,7 +97,7 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
-      - scope:
+  - scope:
       path: ""
       type: pages
     values:
