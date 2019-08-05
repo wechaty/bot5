@@ -202,13 +202,14 @@ header:
 1、Bot Friday - Bot5
 
 俱乐部名称经过现场全部会员投票，得票最多的两个名字分别是：Bot Friday & Bot5。最终俱乐部名称初步决定如下：
-    1. 品牌名：Bot Friday
-    1. 缩写：Bot5
-    1. 俱乐部全称/简称：Bot Friday Club / Bot5 Club
+
+1. 品牌名：Bot Friday
+1. 缩写：Bot5
+1. 俱乐部全称/简称：Bot Friday Club / Bot5 Club
 
 2、Bot Framework Seminar
 
-1俱乐部决定举办一场 Bot Framework 专题沙龙，邀请微软 Bot Framework 产品团队的常青（Elaine Chang）、李靖、白英娜（Brenda Bai）、丁煜恒参加。时间定在 8月23日（周五） ，定向邀请使用过微软 Bot Builder 的开发者参与
+俱乐部决定举办一场 Bot Framework 专题沙龙，邀请微软 Bot Framework 产品团队的常青（Elaine Chang）、李靖、白英娜（Brenda Bai）、丁煜恒参加。时间定在 8月23日（周五） ，定向邀请使用过微软 Bot Builder 的开发者参与；
 
 3、Chatbot TVP
 
