@@ -5,7 +5,7 @@ categories: events
 tags:
   - minutes
 header:
-  teaser: /assets/2019/seminar-3/group-photo.png
+  teaser: /assets/2019/seminar-3/group-photo.jpg
 ---
 
 << Bot5 第二次活动纪要: [Bot5 Episode 2](https://bot5.club/events/seminar-minutes-2) <<
@@ -15,6 +15,8 @@ header:
 - 时间：2019年8月2日（周五）18:30 - 23:00（4.5小时）
 - 地点：腾讯公司北京办公室（理想国际大厦17层）
 - 赞助方：腾讯公司，毛豆网
+
+![attendees]({{ '/assets/2019/seminar-3/in-meeting.jpg' | relative_url }})
 
 ## Attendees
 
@@ -59,7 +61,13 @@ header:
 
 #### 王天
 
+![王天]({{ '/assets/2019/seminar-3/talk-dialog-design-wantian.jpg' | relative_url }})
+
 腾讯云语音组产品负责人，资深互联网产品经理。
+
+#### Slides
+
+[对话交互设计指南](https://www.jianshu.com/p/43e93bfd0895)
 
 #### 大纲
 
@@ -69,15 +77,39 @@ header:
 1. 话术设计
 1. 自然交互
 
-#### Slides
-
-[对话交互设计指南](https://www.jianshu.com/p/43e93bfd0895)
-
 ### 2 ChatBot入坑指南
 
 #### 李云军
 
+![李云军]({{ '/assets/2019/seminar-3/talk-conversational-user-interface-liyunjun.jpg' | relative_url }})
+
 圈动无界创始人CEO。资深互联网从业者。历任方正、金山安全产品总监、高级技术总监。拥有2个智能排版算法专利。圈动无界公司提供团队协作产品Teamin，结合自然语言处理及人工智能，为新型社交协作人群提供更智能的助理服务，曾获360、英诺天使千万级投资；
+
+#### Slides
+
+<div class="zoom-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3/slide-conversational-user-interface-liyunjun.pdf' | relative_url }}'
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
 
 #### 大纲
 
@@ -99,6 +131,15 @@ header:
     - 人机对话注定是个细活儿
     - 封闭域可能做的更好
 
+### 3 情感化ChatBot的另一种思路
+
+#### 孙羽茜，彭骏
+
+![孙羽茜，彭俊]({{ '/assets/2019/seminar-3/talk-rebo-sunyuqian.jpg' | relative_url }})
+
+1. 孙羽茜，清华美院信息设计专业2015级毕业生，辅修智能硬件专业，就读期间曾获MooPas人工智能挑战赛团队冠军，互联网+清华十佳创业团队等奖项。毕业作品入选2019清华美院校级优秀毕设，获学院收藏。2019年秋季前往英国求学，修[算法艺术](https://www.gold.ac.uk/pg/mfa-computational-arts/)专业，可以理解为用编程和一些新科技手段做艺术创作。（[个人网站](http://www.fakedoge.com))
+1. 彭骏，清华能动2016届在读，辅修智能硬件专业，就读期间曾获MooPas人工智能挑战赛团队冠军，互联网+清华十佳创业团队等奖项。Rebo项目负责代码实现和调试。与孙羽茜同组。
+
 #### Slides
 
 <div class="zoom-container" style="
@@ -109,7 +150,7 @@ header:
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-2/talk-about-conversational-user-interface-liyunjun.pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3/slide-final-rebo-sunyuqian.pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
@@ -124,13 +165,6 @@ header:
     "
   ></iframe>
 </div>
-
-### 3 情感化ChatBot的另一种思路
-
-#### 孙羽茜，彭骏
-
-1. 孙羽茜，清华美院信息设计专业2015级毕业生，辅修智能硬件专业，就读期间曾获MooPas人工智能挑战赛团队冠军，互联网+清华十佳创业团队等奖项。毕业作品入选2019清华美院校级优秀毕设，获学院收藏。2019年秋季前往英国求学，修[算法艺术](https://www.gold.ac.uk/pg/mfa-computational-arts/)专业，可以理解为用编程和一些新科技手段做艺术创作。（[个人网站](http://www.fakedoge.com))
-1. 彭骏，清华能动2016届在读，辅修智能硬件专业，就读期间曾获MooPas人工智能挑战赛团队冠军，互联网+清华十佳创业团队等奖项。Rebo项目负责代码实现和调试。与孙羽茜同组。
 
 #### 大纲
 
@@ -143,35 +177,7 @@ header:
 3. ChatBot机制设计与实现
 4. 实际聊天内容分享
 
-#### Slides
-
-<div class="zoom-container" style="
-    position: relative;
-    padding-bottom:56.25%;
-    padding-top:30px;
-    height:0;
-    overflow:hidden;
-">
-  <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3/final-rebo-sunyuqian.pdf' | relative_url }}'
-    width='560'
-    height='315'
-    allowfullscreen
-    webkitallowfullscreen
-    frameborder="0"
-    style="
-      position: absolute;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-    "
-  ></iframe>
-</div>
-
 ### 3. 分享视频回顾
-
-TODO: Update 2 video url
 
 <div class="zoom-container" style="
     position: relative;
@@ -193,7 +199,7 @@ TODO: Update 2 video url
     "
   >
     <source
-      src='https://av.cdn.maodou.io/5d3a9c0ee6ac367ef8cb5b34/0_1564144294'
+      src='https://av.cdn.maodou.io/5d43db9bc307357ef9ee3dfd/0_1564753779'
       type="video/mp4"
     />Your browser does not support the video tag.
   </video>
@@ -203,34 +209,52 @@ TODO: Update 2 video url
 
 ## 活动决议
 
-1. 俱乐部名称经过现场全部会员投票，得票最多的两个名字分别是：Bot Friday & Bot5。最终俱乐部名称初步决定如下：
+![warm up]({{ '/assets/2019/seminar-3/warm-up.jpg' | relative_url }})
+
+### 1 Bot Friday - Bot5
+
+俱乐部名称经过现场全部会员投票，得票最多的两个名字分别是：Bot Friday & Bot5。最终俱乐部名称初步决定如下：
     1. 品牌名：Bot Friday
     1. 缩写：Bot5
     1. 俱乐部全称/简称：Bot Friday Club / Bot5 Club
-1. 俱乐部决定举办一场 Bot Framework 专题沙龙，邀请微软 Bot Framework 产品团队的常青（Elaine Chang）、李靖、白英娜（Brenda Bai）、丁煜恒参加。时间定在 8月23日（周五） ，定向邀请使用过微软 Bot Builder 的开发者参与
-TODO: add images
-1. [TVP（腾讯最具价值专家）]({{ '/assets/2019/seminar-3/chairs.jpg' | relative_url }})目前还没有 Chatbot 的方向。所有会员一致同意大家一起[申请TVP]({{ '/assets/2019/seminar-3/chairs.jpg' | relative_url }})并推动 Chatbot 方向的设立。（争取本周提交申请表）
+
+### 2 Bot Framework Seminar
+
+1俱乐部决定举办一场 Bot Framework 专题沙龙，邀请微软 Bot Framework 产品团队的常青（Elaine Chang）、李靖、白英娜（Brenda Bai）、丁煜恒参加。时间定在 8月23日（周五） ，定向邀请使用过微软 Bot Builder 的开发者参与
+
+### 3 Chatbot TVP
+
+[TVP（腾讯最具价值专家）]({{ '/assets/2019/seminar-3/tvp-introduction.jpg' | relative_url }})目前还没有 Chatbot 的方向。所有会员一致同意大家一起[申请TVP]({{ '/assets/2019/seminar-3/tvp-application-form.docx' | relative_url }})并推动 Chatbot 方向的设立。（争取本周提交申请表）
+
+### 4 Listen, Ask, Share
+
 1. 参加沙龙活动，第一次参加可以通过会员邀请直接参加；第二次如果还希望参加，则需要提交未来自己可以分享的主题（当前阶段），或需要报名进行分享，之后才可以成为正式会员，参加活动；
 1. 未来沙龙活动中有分享的会员，需要在活动之前不晚于24小时，将自己的 talk 整理为文章发表在俱乐部博客上；
-1. 统计了当前会员的连续参会情况：
-    1. 连续三次全都参加的（三朝元老）有：李明、赵俊良、段清华、Huan
-    1. 连续两次参加的有：李云军、梁浩然、王天、李佳芮、高原、雷飏
-1. 补登记了当前所有会员的未来分享主题：
-    1. 蔡学镛：打造知识调度数据库，用自然语言进行严肃编程
-    1. 李靖：Bot Framework 产品组互动
-    1. 舒畅：Chatbot行业创业赛道扫描
-    1. 梁皓然：demo树莓派上做语音助手
-    1. 朱跃峰：教育培训行业的Chatbot应用探索
-    1. 张程：如何评价Chatbot交互过程中的主观评估指标
-    1. 彭俊：如何从0打造7代李白
-    1. 张玉睿：如何基于微信对话做知识管理
+
+### 5 三朝元老
+
+统计了当前会员的连续参会情况：
+
+1. 连续三次全都参加的（三朝元老）有：李明、赵俊良、段清华、Huan
+1. 连续两次参加的有：李云军、梁浩然、王天、李佳芮、高原、雷飏
+
+### 6 会员分享主题确定
+
+补登记了当前所有会员的未来分享主题：
+
+  1. 蔡学镛：打造知识调度数据库，用自然语言进行严肃编程
+  1. 李靖：Bot Framework 产品组互动
+  1. 舒畅：Chatbot行业创业赛道扫描
+  1. 梁皓然：demo树莓派上做语音助手
+  1. 朱跃峰：教育培训行业的Chatbot应用探索
+  1. 张程：如何评价Chatbot交互过程中的主观评估指标
+  1. 彭俊：如何从0打造7代李白
+  1. 张玉睿：如何基于微信对话做知识管理
 
 ## 轮值主席任命仪式
 
 1. 下任轮值主席：李明
-1. 下人轮值副主席：段清华
-
-TODO: update image
+1. 下任轮值副主席：段清华
 
 ![轮值主席任命仪式]({{ '/assets/2019/seminar-3/chairs.jpg' | relative_url }})
 
@@ -275,15 +299,13 @@ TODO: update image
 
 ## 集体合影
 
-TODO: update 2 images
-
 ![合照]({{ '/assets/2019/seminar-3/group-photo.jpg' | relative_url }})
 
 ## After Party 🍻
 
 TODO: update image
 
-![After Party]({{ '/assets/2019/seminar-2/after-party.jpg' | relative_url }})
+![After Party]({{ '/assets/2019/seminar-3/after-party.jpg' | relative_url }})
 
 主场活动结束后，六个人前往上次After Party的管氏串吧继续补充能量，大家讨论了创业，社区，技术，招聘等一系列问题，并成功的消灭了3炮鲜啤！
 
