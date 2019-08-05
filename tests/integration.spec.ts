@@ -32,7 +32,7 @@ test.skip('pull request title', async t => {
 
 test('image size should not more than 1MB', async t => {
   const MAX_WIDTH = 1920         // HD
-  const MAX_SIZE  = 1024 * 1024  // 1MB
+  const MAX_SIZE  = 1024 * 1024 * 2  // 2MB
 
   const fileList = await glob('docs/assets/**/*.{jpg,jpeg,png}')
   t.true(fileList.length > 0, 'should get image file list')
