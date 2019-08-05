@@ -57,6 +57,36 @@ header:
 
 ## Talks
 
+分享视频回顾：
+
+<div class="zoom-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <video
+    controls
+    width="560"
+    height="315"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  >
+    <source
+      src='https://av.cdn.maodou.io/5d43db9bc307357ef9ee3dfd/0_1564753779'
+      type="video/mp4"
+    />Your browser does not support the video tag.
+  </video>
+</div>
+
+> 感谢[毛豆网](https://maodou.io)提供[价值4000元](https://maodou.io/pricing)的本次活动[视频直播](https://live.maodou.io/course/yCt9NCNBdBe52uiT5)赞助！
+
 ### 1 Chatbot对话交互设计
 
 ![王天]({{ '/assets/2019/seminar-3/talk-dialog-design-wantian.jpg' | relative_url }})
@@ -164,36 +194,6 @@ header:
 2. 角色设计
 3. ChatBot机制设计与实现
 4. 实际聊天内容分享
-
-### 4. 分享视频回顾
-
-<div class="zoom-container" style="
-    position: relative;
-    padding-bottom:56.25%;
-    padding-top:30px;
-    height:0;
-    overflow:hidden;
-">
-  <video
-    controls
-    width="560"
-    height="315"
-    style="
-      position: absolute;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-    "
-  >
-    <source
-      src='https://av.cdn.maodou.io/5d43db9bc307357ef9ee3dfd/0_1564753779'
-      type="video/mp4"
-    />Your browser does not support the video tag.
-  </video>
-</div>
-
-> 感谢[毛豆网](https://maodou.io)提供[价值4000元](https://maodou.io/pricing)的本次活动[视频直播](https://live.maodou.io/course/yCt9NCNBdBe52uiT5)赞助！
 
 ## 活动决议
 
