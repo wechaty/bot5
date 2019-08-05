@@ -16,7 +16,7 @@
 title: Bot Friday
 email: huan@chatie.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Bot Friday (BOT5) is a club that for chatbot builders and chatbot entrepreneurs.
+  Bot Friday is a club that for chatbot builders and chatbot entrepreneurs.
   We have meetups on every friday.
 twitter_username: chatieio
 github_username: wechaty
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "BOT5"
+  name   : "Bot Friday"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "BOT5 (Bot Friday) is a CLUB for bot builders and entrepreneurs."
+  bio    : "Bot Friday is a CLUB for bot builders and entrepreneurs."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
