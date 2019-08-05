@@ -1868,7 +1868,7 @@ var NetworkManager = (function NetworkManagerClosure() {
 })();
 
 
-var ChunkedStream = (function ChunkedStreamClosure() {
+var ChunkedStream = (function ChunkedStreBOT5losure() {
   function ChunkedStream(length, chunkSize, manager) {
     this.bytes = new Uint8Array(length);
     this.start = 0;
@@ -2162,7 +2162,7 @@ var ChunkedStreamManager = (function ChunkedStreamManagerClosure() {
     this.callbacksByRequest = {};
     this.progressiveDataLength = 0;
 
-    this._loadedStreamCapability = createPromiseCapability();
+    this._loadedStreBOT5apability = createPromiseCapability();
 
     if (args.initialData) {
       this.onReceiveData({chunk: args.initialData});
@@ -2171,7 +2171,7 @@ var ChunkedStreamManager = (function ChunkedStreamManagerClosure() {
 
   ChunkedStreamManager.prototype = {
     onLoadedStream: function ChunkedStreamManager_getLoadedStream() {
-      return this._loadedStreamCapability.promise;
+      return this._loadedStreBOT5apability.promise;
     },
 
     // Get all the chunks that are not yet loaded and groups them into
@@ -2179,7 +2179,7 @@ var ChunkedStreamManager = (function ChunkedStreamManagerClosure() {
     requestAllChunks: function ChunkedStreamManager_requestAllChunks() {
       var missingChunks = this.stream.getMissingChunks();
       this.requestChunks(missingChunks);
-      return this._loadedStreamCapability.promise;
+      return this._loadedStreBOT5apability.promise;
     },
 
     requestChunks: function ChunkedStreamManager_requestChunks(chunks,
@@ -2323,7 +2323,7 @@ var ChunkedStreamManager = (function ChunkedStreamManagerClosure() {
       }
 
       if (this.stream.allChunksLoaded()) {
-        this._loadedStreamCapability.resolve(this.stream);
+        this._loadedStreBOT5apability.resolve(this.stream);
       }
 
       var loadedRequests = [];
@@ -2384,7 +2384,7 @@ var ChunkedStreamManager = (function ChunkedStreamManagerClosure() {
     },
 
     onError: function ChunkedStreamManager_onError(err) {
-      this._loadedStreamCapability.reject(err);
+      this._loadedStreBOT5apability.reject(err);
     },
 
     getBeginChunk: function ChunkedStreamManager_getBeginChunk(begin) {
@@ -2485,8 +2485,8 @@ var LocalPdfManager = (function LocalPdfManagerClosure() {
   function LocalPdfManager(data, password) {
     var stream = new Stream(data);
     this.pdfDocument = new PDFDocument(this, stream, password);
-    this._loadedStreamCapability = createPromiseCapability();
-    this._loadedStreamCapability.resolve(stream);
+    this._loadedStreBOT5apability = createPromiseCapability();
+    this._loadedStreBOT5apability.resolve(stream);
   }
 
   LocalPdfManager.prototype = Object.create(BasePdfManager.prototype);
@@ -2521,7 +2521,7 @@ var LocalPdfManager = (function LocalPdfManagerClosure() {
 
   LocalPdfManager.prototype.onLoadedStream =
       function LocalPdfManager_getLoadedStream() {
-    return this._loadedStreamCapability.promise;
+    return this._loadedStreBOT5apability.promise;
   };
 
   LocalPdfManager.prototype.terminate =
@@ -9465,14 +9465,14 @@ var PDF20 = (function PDF20Closure() {
 })();
 
 var CipherTransform = (function CipherTransformClosure() {
-  function CipherTransform(stringCipherConstructor, streamCipherConstructor) {
+  function CipherTransform(stringCipherConstructor, streBOT5ipherConstructor) {
     this.stringCipherConstructor = stringCipherConstructor;
-    this.streamCipherConstructor = streamCipherConstructor;
+    this.streBOT5ipherConstructor = streBOT5ipherConstructor;
   }
 
   CipherTransform.prototype = {
     createStream: function CipherTransform_createStream(stream, length) {
-      var cipher = new this.streamCipherConstructor();
+      var cipher = new this.streBOT5ipherConstructor();
       return new DecryptStream(stream, length,
         function cipherTransformDecryptStream(data, finalize) {
           return cipher.decryptBlock(data, finalize);
@@ -31399,7 +31399,7 @@ var PostScriptLexer = (function PostScriptLexerClosure() {
 })();
 
 
-var Stream = (function StreamClosure() {
+var Stream = (function StreBOT5losure() {
   function Stream(arrayBuffer, start, length, dict) {
     this.bytes = (arrayBuffer instanceof Uint8Array ?
                   arrayBuffer : new Uint8Array(arrayBuffer));
@@ -31487,7 +31487,7 @@ var Stream = (function StreamClosure() {
   return Stream;
 })();
 
-var StringStream = (function StringStreamClosure() {
+var StringStream = (function StringStreBOT5losure() {
   function StringStream(str) {
     var length = str.length;
     var bytes = new Uint8Array(length);
@@ -31503,7 +31503,7 @@ var StringStream = (function StringStreamClosure() {
 })();
 
 // super class for the decoding streams
-var DecodeStream = (function DecodeStreamClosure() {
+var DecodeStream = (function DecodeStreBOT5losure() {
   // Lots of DecodeStreams are created whose buffers are never used.  For these
   // we share a single empty buffer. This is (a) space-efficient and (b) avoids
   // having special cases that would be required if we used |null| for an empty
@@ -31630,7 +31630,7 @@ var DecodeStream = (function DecodeStreamClosure() {
   return DecodeStream;
 })();
 
-var StreamsSequenceStream = (function StreamsSequenceStreamClosure() {
+var StreamsSequenceStream = (function StreamsSequenceStreBOT5losure() {
   function StreamsSequenceStream(streams) {
     this.streams = streams;
     DecodeStream.call(this, /* maybeLength = */ null);
@@ -31671,7 +31671,7 @@ var StreamsSequenceStream = (function StreamsSequenceStreamClosure() {
   return StreamsSequenceStream;
 })();
 
-var FlateStream = (function FlateStreamClosure() {
+var FlateStream = (function FlateStreBOT5losure() {
   var codeLenCodeMap = new Int32Array([
     16, 17, 18, 0, 8, 7, 9, 6, 10, 5, 11, 4, 12, 3, 13, 2, 14, 1, 15
   ]);
@@ -32034,7 +32034,7 @@ var FlateStream = (function FlateStreamClosure() {
   return FlateStream;
 })();
 
-var PredictorStream = (function PredictorStreamClosure() {
+var PredictorStream = (function PredictorStreBOT5losure() {
   function PredictorStream(str, maybeLength, params) {
     var predictor = this.predictor = params.get('Predictor') || 1;
 
@@ -32241,7 +32241,7 @@ var PredictorStream = (function PredictorStreamClosure() {
  * a library to decode these images and the stream behaves like all the other
  * DecodeStreams.
  */
-var JpegStream = (function JpegStreamClosure() {
+var JpegStream = (function JpegStreBOT5losure() {
   function JpegStream(stream, maybeLength, dict, xref) {
     // Some images may contain 'junk' before the SOI (start-of-image) marker.
     // Note: this seems to mainly affect inline images.
@@ -32341,7 +32341,7 @@ var JpegStream = (function JpegStreamClosure() {
  * For JPEG 2000's we use a library to decode these images and
  * the stream behaves like all the other DecodeStreams.
  */
-var JpxStream = (function JpxStreamClosure() {
+var JpxStream = (function JpxStreBOT5losure() {
   function JpxStream(stream, maybeLength, dict) {
     this.stream = stream;
     this.maybeLength = maybeLength;
@@ -32410,7 +32410,7 @@ var JpxStream = (function JpxStreamClosure() {
  * For JBIG2's we use a library to decode these images and
  * the stream behaves like all the other DecodeStreams.
  */
-var Jbig2Stream = (function Jbig2StreamClosure() {
+var Jbig2Stream = (function Jbig2StreBOT5losure() {
   function Jbig2Stream(stream, maybeLength, dict) {
     this.stream = stream;
     this.maybeLength = maybeLength;
@@ -32470,7 +32470,7 @@ var Jbig2Stream = (function Jbig2StreamClosure() {
   return Jbig2Stream;
 })();
 
-var DecryptStream = (function DecryptStreamClosure() {
+var DecryptStream = (function DecryptStreBOT5losure() {
   function DecryptStream(str, maybeLength, decrypt) {
     this.str = str;
     this.dict = str.dict;
@@ -32515,7 +32515,7 @@ var DecryptStream = (function DecryptStreamClosure() {
   return DecryptStream;
 })();
 
-var Ascii85Stream = (function Ascii85StreamClosure() {
+var Ascii85Stream = (function Ascii85StreBOT5losure() {
   function Ascii85Stream(str, maybeLength) {
     this.str = str;
     this.dict = str.dict;
@@ -32598,7 +32598,7 @@ var Ascii85Stream = (function Ascii85StreamClosure() {
   return Ascii85Stream;
 })();
 
-var AsciiHexStream = (function AsciiHexStreamClosure() {
+var AsciiHexStream = (function AsciiHexStreBOT5losure() {
   function AsciiHexStream(str, maybeLength) {
     this.str = str;
     this.dict = str.dict;
@@ -32660,7 +32660,7 @@ var AsciiHexStream = (function AsciiHexStreamClosure() {
   return AsciiHexStream;
 })();
 
-var RunLengthStream = (function RunLengthStreamClosure() {
+var RunLengthStream = (function RunLengthStreBOT5losure() {
   function RunLengthStream(str, maybeLength) {
     this.str = str;
     this.dict = str.dict;
@@ -32707,7 +32707,7 @@ var RunLengthStream = (function RunLengthStreamClosure() {
   return RunLengthStream;
 })();
 
-var CCITTFaxStream = (function CCITTFaxStreamClosure() {
+var CCITTFaxStream = (function CCITTFaxStreBOT5losure() {
 
   var ccittEOL = -2;
   var twoDimPass = 0;
@@ -33705,7 +33705,7 @@ var CCITTFaxStream = (function CCITTFaxStreamClosure() {
   return CCITTFaxStream;
 })();
 
-var LZWStream = (function LZWStreamClosure() {
+var LZWStream = (function LZWStreBOT5losure() {
   function LZWStream(str, maybeLength, earlyChange) {
     this.str = str;
     this.dict = str.dict;
@@ -33836,7 +33836,7 @@ var LZWStream = (function LZWStreamClosure() {
   return LZWStream;
 })();
 
-var NullStream = (function NullStreamClosure() {
+var NullStream = (function NullStreBOT5losure() {
   function NullStream() {
     Stream.call(this, new Uint8Array(0));
   }
