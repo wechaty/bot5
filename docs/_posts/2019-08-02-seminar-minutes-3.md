@@ -293,7 +293,7 @@ header:
 
 ![After Party]({{ '/assets/2019/seminar-3/after-party.jpg' | relative_url }})
 
-主场活动结束后，六个人前往上次After Party的管氏串吧继续补充能量，大家讨论了创业，社区，技术，招聘等一系列问题，并成功的消灭了3炮鲜啤！
+主场活动结束后，十个人前往管氏串吧继续补充能量，成功的消灭了3炮鲜啤！
 
 ---
 
