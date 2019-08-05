@@ -1,6 +1,6 @@
 # Chatie Style Minimal Mistakes remote theme starter
 
-[Greenkeeper badge](https://badges.greenkeeper.io/wechaty/bot5.club.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/wechaty/bot5.club.svg)](https://greenkeeper.io/)
 
 Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
@@ -81,7 +81,8 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 [Huan LI (李卓桓)](http://linkedin.com/in/zixia) <zixia@zixia.net>
 
-[![Profile of Huan LI (李卓桓) on StackOverflow](https://stackexchange.com/users/flair/265499.png)](https://stackexchange.com/users/265499) [!
+[![Profile of Huan LI (李卓桓) on StackOverflow](https://stackexchange.com/users/flair/265499.png)](https://stackexchange.com/users/265499)
+
 ## Copyright & License
 
 - Code & Docs © 2019 - now Huan LI <zixia@zixia.net>
