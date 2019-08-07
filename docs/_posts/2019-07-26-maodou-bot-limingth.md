@@ -9,7 +9,7 @@ tags:
   - BosonNLP
   - bothub
 header:
-  teaser: /assets/2019/maodou-bot/maodou-bothub-arch.jpg
+  teaser: /assets/2019/maodou-bot/maodou-bothub-arch.png
 ---
 
 << 本次活动通知: [Bot Friday 第二弹](https://blog.chatie.io/bot-friday-second/) <<
