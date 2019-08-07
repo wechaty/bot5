@@ -48,14 +48,14 @@ The Bad Part of My Chatbot Experience
 
 经过研究和测试，发现各大AI平台提供的接口，都是词法分析的结果为核心，返回各个实体的文本字段。真正对于工程有价值的，应该不是一个文本，而是一个 Date 变量，因此就没有采用这方面的接口。
 
-* 讯飞开放平台
-  * 词法分析: [https://www.xfyun.cn/services/lexicalAnalysis](https://www.xfyun.cn/services/lexicalAnalysis)
-  * 关键字提取: [https://www.xfyun.cn/services/keyword-extraction](https://www.xfyun.cn/services/keyword-extraction)
+### 讯飞开放平台
+* 词法分析: [https://www.xfyun.cn/services/lexicalAnalysis](https://www.xfyun.cn/services/lexicalAnalysis)
+* 关键字提取: [https://www.xfyun.cn/services/keyword-extraction](https://www.xfyun.cn/services/keyword-extraction)
 
 ![maodou-xunfei-nlp.png](/assets/2019/maodou-bot/maodou-xunfei-nlp.png)
 
-* 百度开放平台
-  * 词法分析: [https://ai.baidu.com/tech/nlp_basic/lexical](https://ai.baidu.com/tech/nlp_basic/lexical)
+### 百度开放平台
+* 词法分析: [https://ai.baidu.com/tech/nlp_basic/lexical](https://ai.baidu.com/tech/nlp_basic/lexical)
 
 ![maodou-baidu-nlp.png](/assets/2019/maodou-bot/maodou-baidu-nlp.png)
 
