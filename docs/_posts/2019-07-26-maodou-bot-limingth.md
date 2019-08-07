@@ -2,12 +2,14 @@
 title: The Bad Part of My Chatbot Experience
 author: limingth
 date: 2019-07-26 19:00 +0800
-categories: events
+categories: talk
 tags:
-  - bot
   - time_nlp
   - recognizers
-  - BosonNLP  
+  - BosonNLP
+  - bothub
+header:
+  teaser: /assets/2019/maodou-bot/maodou-bothub-arch.jpg
 ---
 
 << 本次活动通知: [Bot Friday 第二弹](https://blog.chatie.io/bot-friday-second/) <<
@@ -24,7 +26,7 @@ The Bad Part of My Chatbot Experience
 
 从一句话中识别出时间，主题和地点，这是我们正在做的项目[毛豆课堂](https://blog.chatie.io/send-miniprogram-using-padpro/)中衍生出的一个需求，通过添加[毛豆课堂小助手](https://blog.chatie.io/assets/2019/maodou-ketang-qrcode.png)为微信好友后，发送一句话可以通过这个 chatbot 来创建一个课程提醒。
 
-![maodou-time-nlp-ra.png](../assets/2019/maodou-bot/maodou-time-nlp-ra.png)
+![maodou-time-nlp-ra.png](/assets/2019/maodou-bot/maodou-time-nlp-ra.png)
 
 原本这应该是做 Chatbot 项目要用到 NLP 中最常见的一个需求，特别是时间，如何能够快速得到最符合文本中人类意图的时间。但找了一圈可以识别时间的NLP，却没有发现真正能够符合我们需求的解决方案。
 
@@ -50,12 +52,12 @@ The Bad Part of My Chatbot Experience
   * 词法分析: [https://www.xfyun.cn/services/lexicalAnalysis](https://www.xfyun.cn/services/lexicalAnalysis)
   * 关键字提取: [https://www.xfyun.cn/services/keyword-extraction](https://www.xfyun.cn/services/keyword-extraction)
 
-![maodou-xunfei-nlp.png](../assets/2019/maodou-bot/maodou-xunfei-nlp.png)
+![maodou-xunfei-nlp.png](/assets/2019/maodou-bot/maodou-xunfei-nlp.png)
 
 * 百度开放平台
   * 词法分析: [https://ai.baidu.com/tech/nlp_basic/lexical](https://ai.baidu.com/tech/nlp_basic/lexical)
 
-![maodou-baidu-nlp.png](../assets/2019/maodou-bot/maodou-baidu-nlp.png)
+![maodou-baidu-nlp.png](/assets/2019/maodou-bot/maodou-baidu-nlp.png)
 
 ## 实际使用的库和效果
 
@@ -68,7 +70,7 @@ The Bad Part of My Chatbot Experience
 * npm安装包：[https://www.npmjs.com/package/@microsoft/recognizers-text-suite](https://www.npmjs.com/package/@microsoft/recognizers-text-suite)
 
 recognizers 给出的返回值：
-![maodou-ms-recognizer.png](../assets/2019/maodou-bot/maodou-ms-recognizer.png)
+![maodou-ms-recognizer.png](/assets/2019/maodou-bot/maodou-ms-recognizer.png)
 
 ### BosonNLP
 
@@ -76,7 +78,7 @@ recognizers 给出的返回值：
 * npm安装包：[https://www.npmjs.com/package/bosonnlp](https://www.npmjs.com/package/bosonnlp)
 
 BosonNLP 给出的返回值：
-![maodou-boson-ner](../assets/2019/maodou-bot/maodou-boson-ner.png)
+![maodou-boson-ner](/assets/2019/maodou-bot/maodou-boson-ner.png)
 
 ### Time-NLP
 
@@ -88,16 +90,16 @@ BosonNLP 给出的返回值：
 #### 理想中的API是这样的
 
 * 搜索排在首页
-![maodou-google-nlp](../assets/2019/maodou-bot/maodou-google-nlp.png)
+![maodou-google-nlp](/assets/2019/maodou-bot/maodou-google-nlp.png)
 
 * 接口和返回值简单清晰
-![maodou-api-simple](../assets/2019/maodou-bot/maodou-api-simple.png)
+![maodou-api-simple](/assets/2019/maodou-bot/maodou-api-simple.png)
 
 * 无需注册Key/Token
-![maodou-api-notoken](../assets/2019/maodou-bot/maodou-api-notoken.png)
+![maodou-api-notoken](/assets/2019/maodou-bot/maodou-api-notoken.png)
 
 * 自带测试调用范例代码
-![maodou-api-sample](../assets/2019/maodou-bot/maodou-api-sample.png)
+![maodou-api-sample](/assets/2019/maodou-bot/maodou-api-sample.png)
 
 * 部署一个Demo网页  
 这方面可以参考讯飞开放平台的[Demo页面](https://www.xfyun.cn/services/lexicalAnalysis)。
@@ -120,4 +122,4 @@ BosonNLP 给出的返回值：
 > 有没有一个专注于聊天场景的 AI 接口服务，提供绝大部分常见的 AI 接口，我们姑且给它取名 chaty.ai，可以帮助我们实现一个最好的 parseTime() 接口，我们只需要调用它去实现上层业务逻辑，而它只专注于寻找或者实现最好的AI算法来解决我们需要的接口问题。
 
 最后一张图，描绘一下我理想中的大同世界。That's what I call **Future of Chatbot Friday** :-O
-![maodou-bothub-arch.png](../assets/2019/maodou-bot/maodou-bothub-arch.png)
+![maodou-bothub-arch.png](/assets/2019/maodou-bot/maodou-bothub-arch.png)
