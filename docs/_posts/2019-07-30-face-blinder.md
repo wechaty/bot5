@@ -2,15 +2,17 @@
 title: 脸盲助手 基于微信社交的Chatbot人脸识别应用探索
 author: creatorkuang
 date: 2019-07-30 00:55 +0800
-categories: event
+categories: blog
 tags:
+  - talk
   - bot
   - face
   - meetup
   - 人脸识别
 ---
 
-<< 本次活动通知: [腾讯+句子互动第二弹，Chatbot Friday](https://mp.weixin.qq.com/s/fbY9BVLIqhy6Uwls0g4fRQ) <<
+笔者此次分享主要是抛转引玉，通过分享Chatbot的一个场景应用来引出目前Chatbot技术的一些常见问题。
+<!--more-->
 
 ## Bot Friday Second - 沙龙第二弹
 
@@ -18,10 +20,6 @@ tags:
 
 2019-07-30 于北京腾讯，[Weipeng Kuang](https://github.com/creatorkuang)
 
-## 引言
-
-笔者此次分享主要是抛转引玉，通过分享Chatbot的一个场景应用来引出目前Chatbot技术的一些常见问题。
-<!--more-->
 ## 用户场景
 
 ### 场景一

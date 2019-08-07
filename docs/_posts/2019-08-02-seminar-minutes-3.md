@@ -269,9 +269,8 @@ header:
 1. 李明/俊良：Wechaty Mini Program Support
 1. 李明/俊良: What will happen after Chatbot empowered by Mini Program?
 1. 俊良：如何用if else 和正则表达式写一个聊天机器人。
-1. 邝伟鹏：Chatbot 场景分享：秒印，家校沟通的工具。
+1. 邝伟鹏：Chatbot 场景分享：秒应，家校沟通的工具。
 1. 李卓桓：Bot Market Place --- 可重用能力平台。
-1. 肖立鹏：udesk 场景分享 （待定）
 1. 刘晓倩：Chatbot 行业应用，智能对话连接数据与商业
 1. 高原：企业微信开发实战分享
 1. 李佳芮：如何用Chatbot做售前导流
