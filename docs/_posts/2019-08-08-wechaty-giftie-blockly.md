@@ -28,7 +28,7 @@ tags:
 <section data-markdown>
 ## To Be Wriute
 
-* Press Down ⬇️
+- Press Down ⬇️
 
 </section>
 
