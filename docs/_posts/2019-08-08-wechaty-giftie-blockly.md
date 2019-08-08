@@ -17,7 +17,7 @@ tags:
 
 > **Giftie** is a "Reuseable Bot Compoment."
 
-- Huan LI (李卓桓)
+- Huan (李卓桓)
 - Author of [Wechaty](https://github.com/chatie/wechaty)
 
 </section>
@@ -51,7 +51,7 @@ tags:
 
 Learn more from: [Wechaty 101 - from v0.0 to v0.7](https://blog.chatie.io/wechaty-101-presentation/)
 
-- [Huan LI (李卓桓)](https://www.linkedin.com/in/zixia/)
+- [Huan (李卓桓)](https://www.linkedin.com/in/zixia/)
 - Wechat: 918999
 
 </section>
