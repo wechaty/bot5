@@ -111,6 +111,15 @@ tingyinhelen:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tingyinhelen"
 
+creatorkuang:
+  name: "邝伟鹏"
+  bio: "在做人脸识别+Chatbot应用的JS开发"
+  avatar: "https://avatars2.githubusercontent.com/u/1304124?s=400&u=118c7f0953bf71f87e3c488b1a11795ad0f861cd&v=4"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/creatorkuang"
+
 kungfu-software:
   name: "Seabook"
   bio: "Founder of [Kungfu Software](http://kungfusoftware.net)"
