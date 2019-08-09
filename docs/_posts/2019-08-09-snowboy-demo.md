@@ -13,10 +13,10 @@ tags:
   - 树莓派
   - raspberry pi
 header:
-  teaser: /assets/2019/snowboy-demo/jarvis_india.jpg
+  teaser: /assets/2019/snowboy-demo/jarvis-india.jpg
 ---
 
-# 设想
+## 设想
 
 一个聊天机器人（Chatbot）需要理解自然语言，并作出对应的回复。一个chatbot模块可以拆解成如下部分：
 
@@ -32,7 +32,7 @@ header:
 作为一个开发者，和漫威电影的爱好者，我经常在想有没有办法做一个属于自己的语音助手，像钢铁侠电影里面的Jarvis和Friday一样。对于我来说，一个
 voice chatbot可以拆解成下面的部分：
 
-![Voice Chatbot](/assets/2019/snowboy-demo/voice_chatbot.png)
+![Voice Chatbot](/assets/2019/snowboy-demo/voice-chatbot.png)
 
 看起来，我只需要把每个部件连接起来，然后放到一个机器上面跑就可以了！但是想了一下，又想到了一个问题，这个语音助手需要像市面上的设备一样，需要唤醒。
 如果没有唤醒步骤，一直做监听的话，对存储资源和网络连接的需求是非常大的。经过一番搜索之后，我找到了[Snowboy](https://snowboy.kitt.ai/)。
@@ -41,7 +41,7 @@ Snowboy是[kitt.ai](https://kitt.ai)制作的一个热词检测库 (Hotwords Det
 [功耗很低](http://docs.kitt.ai/snowboy/#what-s-the-cpu-ram-usage)，可以支持在树莓派等设备上运行。官方提供Python, Golang, NodeJS, iOS
 和Android的wrapper可以整合到代码里面。
 
-# 实践
+## 实践
 
 于是我就拿出了尘封已久的树莓派，连上了麦克风和音箱，开始自己倒腾能不能做出来一个简单的能听懂我说话的小Jarvis。最近也入购了一个iPad Pro，所以
 我准备直接通过iPad Pro连接树莓派进入ssh编程，顺便练一下vim，哈哈。
@@ -65,8 +65,8 @@ Blue的麦克风是USB连接的，在Linux下可以免驱直接使用。
 机器启动之后安装[nvm](https://github.com/nvm-sh/nvm) 用最新版的NodeJS v10 LTS。然后创建 `package.json` 并安装 `snowboy` nodejs wrapper:
 
 ```shell
-$ npm init
-$ npm install snowboy --save
+npm init
+npm install snowboy --save
 ```
 
 需要详细读取文档安装所有Snowboy编译所需的依赖（TODO）。依赖安装完之后，我们参考一下Snowboy的[sample](https://github.com/Kitt-AI/snowboy/blob/master/examples/Node/microphone.js)代码：
@@ -535,7 +535,7 @@ module.exports = {
 
 下面附上[完整代码](https://github.com/xanthous-tech/snowboy-rpi-demo)
 
-# 后记
+## 后记
 
 我觉得整体的运行效果还是不错的，并且可以高度自定义。我希望后面再测试一下其他不同厂商的语音API，并且对接上Rasa和Wechaty，这样在家里就可以和机器人对话，
 并且能够在微信里面获得一些图文的信息。讯飞的API整合出乎意料之外地复杂，并且有一个我觉得比较致命的问题是，讯飞的WebAPI连接延时特别严重，我一开始以为是
@@ -544,6 +544,6 @@ module.exports = {
 
 希望这个demo能够起到一个抛砖引玉的作用，在未来可以看到更多更酷炫的语音助手和机器人。
 
-# 链接
+## 链接
 
-- https://x-tech.io/zh/posts/voice-chatbot-snowboy/
+* [Original](https://x-tech.io/zh/posts/voice-chatbot-snowboy/)
