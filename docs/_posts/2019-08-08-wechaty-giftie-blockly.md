@@ -4,7 +4,7 @@ description: BOT5 Club Talks
 layout: slide
 theme: league
 transition: fade
-categories: slide
+categories: slides
 tags:
   - wechaty
   - giftie
