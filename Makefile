@@ -22,7 +22,7 @@ serve:
 
 .PHONY: docker
 docker:
-	docker-compose up
+	docker-compose -f config/docker-compose.yml up
 
 .PHONY: fit-image
 fit-image:
