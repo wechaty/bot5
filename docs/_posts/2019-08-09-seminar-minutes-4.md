@@ -87,7 +87,7 @@ header:
 
 蔡学镛，曾任创新工场首席布道师，阿里巴巴集团支付宝架构师，银联移动支付首席产品架构师。
 
-[从编程语言到自然语言](/assets/2019/seminar-4/slide-uniframe-caixueyong.pdf5)
+[从编程语言到自然语言](/assets/2019/seminar-4/slide-uniframe-caixueyong.pdf)
 
 大纲：
 
