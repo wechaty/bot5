@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bot5-logo-green.jpg
+  overlay_image: /assets/images/bot5-banner.png
 excerpt: "BOT5 Talks"
 toc: true
 toc_label: "Unique Title"
