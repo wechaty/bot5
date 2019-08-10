@@ -2,7 +2,7 @@
 title: The Bad Part of My Chatbot Experience
 author: limingth
 date: 2019-07-26 19:00 +0800
-categories: talk
+categories: talks
 tags:
   - time_nlp
   - recognizers
