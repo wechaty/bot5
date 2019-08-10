@@ -83,7 +83,7 @@ header:
 
 ### 1 从编程语言到自然语言
 
-![蔡学镛]({{ '/assets/2019/seminar-4/talk-uniframe-caixueyong.jpeg' | relative_url }})
+![蔡学镛]({{ '/assets/2019/seminar-4/talk-uniframe-caixueyong.jpg' | relative_url }})
 
 蔡学镛，曾任创新工场首席布道师，阿里巴巴集团支付宝架构师，银联移动支付首席产品架构师。
 
@@ -102,7 +102,7 @@ header:
 
 ### 2 树莓派上做语音助手
 
-![梁皓然]({{ '/assets/2019/seminar-3/talk-nanopi-lianghaoran.jpeg' | relative_url }})
+![梁皓然]({{ '/assets/2019/seminar-4/talk-nanopi-lianghaoran.jpg' | relative_url }})
 
 梁皓然(Simon)，XTech创始人&CEO。
 
@@ -118,7 +118,7 @@ header:
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3/slide-voice-chatbot-snowboy-lianghaoran.pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-4/slide-voice-chatbot-snowboy-lianghaoran.pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
@@ -226,8 +226,8 @@ header:
     1. 20:30 - 20:45 (15 MIN): Reflection & Group Photo
 1. 地点：内部通知
 1. 主题
-    1. ：《》
-    1. ：《》
+    1. ：待定《待定》
+    1. ：待定《待定》
 
 ## 未来分享议题
 
