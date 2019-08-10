@@ -79,7 +79,7 @@ Others:
 Linux
 
 ```sh
-sudo apt-get install imagemagic
+sudo apt-get install imagemagick
 sudo apt-get install webp
 ```
 
