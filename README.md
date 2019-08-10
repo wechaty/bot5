@@ -76,11 +76,17 @@ Others:
 
 ### `scripts/fit-image.sh` Realted
 
+Linux
+
 ```sh
 sudo apt-get install imagemagick
-# mac:
-# brew install imagemagick
 sudo apt-get install webp
+```
+
+Mac
+
+```sh
+brew install imagemagick
 ```
 
 ### Jekyll Related
