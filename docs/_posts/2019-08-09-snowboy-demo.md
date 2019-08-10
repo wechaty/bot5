@@ -2,7 +2,7 @@
 title: 用Snowboy打造自己的树莓派语音助手
 author: lhr0909
 date: 2019-08-09 14:40 +0800
-categories: talk
+categories: talks
 tags:
   - bot
   - chatbot
