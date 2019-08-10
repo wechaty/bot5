@@ -20,6 +20,10 @@ code:
 serve:
 	(cd docs && bundle exec jekyll serve --incremental)
 
+.PHONY: docker
+docker:
+	docker-compose up
+
 .PHONY: fit-image
 fit-image:
 	./scripts/fit-image.sh docs/assets/
