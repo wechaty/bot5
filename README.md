@@ -77,7 +77,9 @@ Others:
 ### `scripts/fit-image.sh` Realted
 
 ```sh
-sudo apt-get install imagemagic
+sudo apt-get install imagemagick
+# mac:
+# brew install imagemagick
 sudo apt-get install webp
 ```
 
