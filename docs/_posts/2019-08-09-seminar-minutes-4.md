@@ -5,7 +5,7 @@ categories: events
 tags:
   - minutes
 header:
-  teaser: /assets/2019/seminar-4/group-photo.jpg
+  teaser: /assets/2019/seminar-4/group-photo.jpeg
 ---
 
 << Bot5 第三次活动纪要: [Bot5 Episode 3](https://bot5.club/events/seminar-minutes-3) <<
@@ -19,7 +19,7 @@ header:
     1. Vice-Chair: 段清华
 - 赞助方：腾讯公司，毛豆网
 
-![attendees]({{ '/assets/2019/seminar-4/group-photo.jpg' | relative_url }})
+![attendees]({{ '/assets/2019/seminar-4/group-photo.jpeg' | relative_url }})
 
 ## Attendees
 
@@ -102,7 +102,7 @@ header:
 
 ### 2 树莓派上做语音助手
 
-![梁皓然]({{ '/assets/2019/seminar-3/talk-nanopi-lianghaoran.jpeg' | relative_url }})
+![梁皓然]({{ '/assets/2019/seminar-4/talk-nanopi-lianghaoran.jpeg' | relative_url }})
 
 梁皓然(Simon)，XTech创始人&CEO。
 
@@ -118,7 +118,7 @@ header:
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3/slide-voice-chatbot-snowboy-lianghaoran.pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-4/slide-voice-chatbot-snowboy-lianghaoran.pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
@@ -212,7 +212,7 @@ header:
 1. 下任轮值主席：段清华
 1. 下任轮值副主席：李佳芮
 
-![轮值主席任命仪式]({{ '/assets/2019/seminar-4/chairs.jpg' | relative_url }})
+![轮值主席任命仪式]({{ '/assets/2019/seminar-4/chairs.jpeg' | relative_url }})
 
 ## 下次活动信息
 
@@ -226,8 +226,8 @@ header:
     1. 20:30 - 20:45 (15 MIN): Reflection & Group Photo
 1. 地点：内部通知
 1. 主题
-    1. ：《》
-    1. ：《》
+    1. ：待定《待定》
+    1. ：待定《待定》
 
 ## 未来分享议题
 
@@ -255,11 +255,11 @@ header:
 
 ## 集体合影
 
-![合照]({{ '/assets/2019/seminar-4/group-photo.jpg' | relative_url }})
+![合照]({{ '/assets/2019/seminar-4/group-photo.jpeg' | relative_url }})
 
 ## After Party 🍻
 
-![After Party]({{ '/assets/2019/seminar-4/after-party.jpg' | relative_url }})
+![After Party]({{ '/assets/2019/seminar-4/after-party.jpeg' | relative_url }})
 
 主场活动结束后，7个人前往管氏串吧继续补充能量，成功的消灭了2炮鲜啤！Due to 欧阳鑫的生日，成功砍价近百元！
 
