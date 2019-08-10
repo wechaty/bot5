@@ -3,6 +3,8 @@ main:
     url: /manuals/
   - title: "Talks"
     url: /talks
+  - title: "People"
+    url: /people
   - title: "Posts"
     url: /posts/
   - title: "Categories"
