@@ -76,14 +76,16 @@ Others:
 
 ### `scripts/fit-image.sh` Realted
 
-* Linux
+Linux
+
 ```sh
 sudo apt-get install imagemagic
 sudo apt-get install webp
 ```
 
-* Mac
-```
+Mac
+
+```sh
 brew install imagemagick
 ```
 
