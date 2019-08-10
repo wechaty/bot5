@@ -78,6 +78,8 @@ Others:
 
 ```sh
 sudo apt-get install imagemagick
+# mac:
+# brew install imagemagick
 sudo apt-get install webp
 ```
 
