@@ -23,7 +23,7 @@ Talks from our BOT5 members.
 | [S1E2](https://blog.chatie.io/bot-friday-second/) | [邝伟鹏](https://bot5.club/people/creatorkuang) | [脸盲助手-基于微信社交的Chatbot人脸识别应用探索](https://www.bot5.club/talks/face-blinder/) |
 | [S1E3](https://www.bot5.club/events/seminar-minutes-3/) | [王天](/people/larrykey) | [Chatbot对话交互设计](https://www.jianshu.com/p/43e93bfd0895) |
 | [S1E3](https://www.bot5.club/events/seminar-minutes-3/) | [李云军](/people/darkli) | [ChatBot入坑指南](https://www.bot5.club/talk-about-conversion-bot/) |
-| [S1E3](https://www.bot5.club/events/seminar-minutes-3/) | [孙羽茜](/people/sunyuqian1997), [彭俊](/people/misska1) | [情感化ChatBot的另一种思路](#TBD) |
+| [S1E3](https://www.bot5.club/events/seminar-minutes-3/) | [孙羽茜](/people/sunyuqian1997), [彭俊](/people/misska1) | [情感化ChatBot的另一种思路](https://www.bot5.club/talks/emotional-chatbot/) |
 | [S1E4](https://www.bot5.club/events/seminar-minutes-4/) | [蔡学镛](/people/jenniferlee520) | [一种灵活的自然语言存储方式](#TBD) |
 | [S1E4](https://www.bot5.club/events/seminar-minutes-4/) | [梁皓然](/people/lhr0909) | [用Snowboy打造自己的树莓派语音助手](https://www.bot5.club/talks/snowboy-demo/) |
 
