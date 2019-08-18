@@ -32,6 +32,8 @@ header:
 
 - Microsoft
   - 丁煜恒， Microsoft Bot Framework Product Manager
+  - 李靖，微软 Bot Framework 产品经理。
+  - 白英娜，微软Bot Framework产品团队
 - Tencent
   - 刘晓倩（平台主席），Tencent Bot Platform Product Manager
 
@@ -45,7 +47,6 @@ header:
 1. 丁煜恒，微软公司 创新技术合作事业部解决方案架构师， 前微软中国Conversational AI布道师。
 1. 金庸，北京云站科技有限公司CEO。 快站www.kuaizhan.com负责人，报名参加。
 1. 朱跃峰，联络易创始人。
-1. 李靖，微软 Bot Framework 产品经理。
 1. 郑譞，伽利略资本MD，前通信行业老兵，目前专注在人工智能领域项目的早期投资，报名参加。
 1. 陈远强，QC Capital MD，海外FinTech早期投资与孵化
 1. 崔华 洪泰基金 科技赛道投资经理 李佳芮推荐
@@ -53,10 +54,9 @@ header:
 1. 陈蔚文，自由IT顾问，曾在IT咨询公司从事SAP ERP咨询相关工作20余年，90年代程序员。
 1. 陈俊良，北京图知天下科技有限责任公司，硬件及嵌入式工程师。
 1. 李晶莹，IT男，智能字典
-1. 白英娜，微软Bot Framework产品团队
 1. 赵俊良，毛豆网客服总监，北京交通大学硕士，曾任北京联合大学信息学院讲师，拥有十余年嵌入式系统研发经历和智能仪器测控领域的创业经历。
 1. 张玉睿，阅粒创始人&CEO。前百度搜索产品科学家，曾任即刻产品总监，360搜索总监。阅粒是做基于神经网络的端到端知识问答服务。
-1. 刘征
+1. 刘征，中欧移动互联网协会秘书长
 
 ## Talks
 
