@@ -26,6 +26,18 @@ Replace sample content with your own and [configure as necessary](https://mmista
 
 Install all the Jekyll requirements and run it at localhost for blog preview.
 
+#### 1 Use Docker Compose
+
+This is the recommended way for new users to easy getting started
+
+```sh
+make docker
+```
+
+#### 2 ~~Install Jekyll by Hand~~
+
+You should not use this way except you are a Ruby expert.
+
 ```sh
 make install
 make serve
@@ -64,9 +76,17 @@ Others:
 
 ### `scripts/fit-image.sh` Realted
 
+Linux
+
 ```sh
-sudo apt-get install imagemagic
+sudo apt-get install imagemagick
 sudo apt-get install webp
+```
+
+Mac
+
+```sh
+brew install imagemagick
 ```
 
 ### Jekyll Related

@@ -107,7 +107,7 @@ defaults:
       path: ""
       type: people
     values:
-      layout: single
+      layout: people
       author_profile: true
 
 category_archive:

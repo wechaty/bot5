@@ -2,8 +2,9 @@
 
 huan:
   name: "Huan (李卓桓)"
-  bio: "CS Ph.D Student Major in Conversational 💬 AI. Active Angel Investor, Serial Entrepreneur, Microsoft AI MVP, Google ML GDE."
+  bio: "💬 CS Ph.D Student Major in Conversational AI. Active Angel Investor, Serial Entrepreneur, Microsoft AI MVP, Google ML GDE."
   avatar: "https://avatars1.githubusercontent.com/u/1361891?s=460&v=4"
+  membership: chair
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -23,108 +24,223 @@ huan:
 
 qhduan:
   name: "段清华"
-  bio: "人工智障工程师"
+  bio: "人工智障工程师。金证优智技术总监。曾任文因互联研发工程师，完成项目包括金融搜索，公告摘要抽取项目，银行问答机器人。拥有多年金融NLP经验，带领团队完成问答机器人、投研系统、监管舆情、知识图谱等项目。对金融文档解析、抽取、搜索、量化分析、知识图谱建设、对话系统等领域有深入研究。"
   avatar: "https://avatars0.githubusercontent.com/u/3895924?s=460&v=4"
+  membership: chair
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://qhduan.com"
 
 limingth:
-  name: "Li Ming"
-  bio: "Founder of Maodou"
+  name: "Li Ming (李明)"
+  bio: "毛豆网创始人CEO，清华大学计算机硕士。曾与2003年创立嵌入式操作系统培训公司亚嵌科技。毛豆网致力于为内容创业者提供技术支持服务，关注Chatbot和微信小程序的结合与互动，并在微信群中基于NLP技术为用户提供流畅体验。已获清华XLab/DNA基金数百万天使投资。"
   avatar: "https://avatars1.githubusercontent.com/u/1249369?s=460&v=4"
+  membership: chair
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/limingth"
 
-timqian:
-  name: "Tim Qian"
-  bio: "Building transparent products at t9t.io"
-  avatar: "https://avatars1.githubusercontent.com/u/5512552?s=460&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/timqian"
-
-coderwhocode:
-  name: "Shawn"
-  bio: "全栈创业狗，致力于利用技术提升支付领域效率。"
-  avatar: "https://avatars1.githubusercontent.com/u/1627446?s=460&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/coderwhocode"
-
-su-chang:
-  name: "SuperChang"
-  bio: "Node.js全栈工程师"
-  avatar: "https://avatars1.githubusercontent.com/u/9332609?s=460&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/su-chang"
-
 lijiarui:
   name: "Jiarui LI"
-  bio: "Full stack developer, serial entrepreneur, Founder & CEO of JuZi.bot"
+  bio: "句子互动创始人。句子互动创建了覆盖全球的微信聊天机器人开发者社区，公司围绕微信生态为客户提供智能对话服务。客户覆盖教育、保险等多个领域。曾入选百度AI加速器，并由PreAngel、Plug and Play和Y Combination孵化支持，已获TSVC/Alpha公社联合千万RMB级别天使投资。"
   avatar: "https://avatars1.githubusercontent.com/u/6419514?s=460&v=4"
+  membership: chair
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lijiarui"
 
-dcsan:
-  name: "David 'DC' Collier"
-  bio: "Serial Entrepreneur, Game designer and developer. Making chatbots at RIKAI Labs"
-  avatar: "https://avatars1.githubusercontent.com/u/514002?s=460&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dcsan"
-
-binsee:
-  name: "Binsee"
-  bio: "野路子的修炼者"
-  avatar: "https://avatars1.githubusercontent.com/u/5285894?s=460&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/binsee"
-
-guoyingxu:
-  name: "郭英旭"
-  bio: ""
-  avatar: "https://avatars1.githubusercontent.com/u/33899027?s=460&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/guoyingxu"
-
-tingyinhelen:
-  name: "Helen"
-  bio: "一个爱玩的程序员，喜欢折腾新技术，还喜欢研究框架源码。不写代码时喜欢跳舞，架子鼓，马拉松"
-  avatar: "https://avatars1.githubusercontent.com/u/14006826?s=460&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tingyinhelen"
-
 creatorkuang:
   name: "邝伟鹏"
-  bio: "在做人脸识别+Chatbot应用的JS开发"
+  bio: "积致科技创始人CEO，巴黎笛卡尔大学硕士。全栈工程师，曾任智能客服Udesk交互架构师，并独立完成类Google doc的实时文档编辑应用以及可视化拖拽开发App应用平台开发宝。积致科技致力于基于微信社交生态，以 Chatbot 的交互方式为用户提供人脸识别应用（FindMyFace及脸盲助手）。已获PreAngel种子投资。"
   avatar: "https://avatars2.githubusercontent.com/u/1304124?s=400&u=118c7f0953bf71f87e3c488b1a11795ad0f861cd&v=4"
+  membership: member
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/creatorkuang"
 
-kungfu-software:
-  name: "Seabook"
-  bio: "Founder of [Kungfu Software](http://kungfusoftware.net)"
-  avatar: "https://avatars1.githubusercontent.com/u/700550?s=460&v=4"
+larrykey:
+  name: "王天"
+  bio: "腾讯智能对话平台产品经理，腾讯云语音组产品负责人"
+  avatar: "https://avatars1.githubusercontent.com/u/25336509"
+  membership: member
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kungfu-software"
+      url: "https://github.com/larrykey"
+
+elinaliu:
+  name: "刘晓倩"
+  bio: "腾讯智能对话平台产品经理。BOT5平台主席。"
+  avatar: "https://avatars1.githubusercontent.com/u/15274106"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/elinaliu"
+
+lhr0909:
+  name: "梁皓然"
+  bio: "Xanthous Tech 创始人，前亚马逊全栈工程师。2016年回国创业，组建团队在全球范围内为大公司提供Chatbot咨询开发服务，应用RASA对话系统，并基于微信将Chatbot和MiniProgram进行了深度整合"
+  avatar: "https://avatars1.githubusercontent.com/u/1154575"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lhr0909"
+
+zhaoic:
+  name: "赵俊良"
+  bio: "毛豆网客服总监，北京交通大学硕士，曾任北京联合大学信息学院讲师，拥有十余年嵌入式系统研发经历和智能仪器测控领域的创业经历"
+  avatar: "https://avatars1.githubusercontent.com/u/3889726"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zhaoic"
+
+windmemory:
+  name: "高原"
+  bio: "句子互动联合创始人，前Amazon，Expedia工程师，北邮计算机本科，马里兰大学硕士，Wechaty contributor，wechaty-puppet-padpro author & maintainer."
+  avatar: "https://avatars1.githubusercontent.com/u/6801292"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/windmemory"
+
+rasirdex:
+  name: "雷飏"
+  bio: "北京安络技术有限公司，董事长，公司业务主要是AI安防，会涉及到楼宇可视对讲门禁的通讯、交互。"
+  avatar: "https://avatars1.githubusercontent.com/u/25434548"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rasirdex"
+
+jodyhuang:
+  name: "黄文辉"
+  bio: "优栋科技联合创始人，产品：基于AI+AR的交互式内容生产工具及社区。个人技术领域（1.AI-图形、图像识别算法、视频内容分析，2.实时音视频通信）"
+  avatar: "https://avatars1.githubusercontent.com/u/25651183"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jodyhuang"
+
+darkli:
+  name: "李云军"
+  bio: "圈动无界创始人CEO。资深互联网从业者，历任方正、金山安全产品总监、高级技术总监。拥有2个智能排版算法专利。公司曾获英诺天使千万级投资。公司主打团队协作产品Teamin，结合自然语言处理及人工智能，为新型社交协作人群提供更智能的助理服务。"
+  avatar: "https://avatars1.githubusercontent.com/u/1259590"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/darkli"
+
+sunyuqian1997:
+  name: "孙羽茜"
+  bio: "清华美院信息设计专业2015级毕业生，辅修智能硬件专业，就读期间曾获MooPas人工智能挑战赛团队冠军，互联网+清华十佳创业团队等奖项。毕业作品入选2019清华美院校级优秀毕设，获学院收藏。2019年秋季前往英国求学，修[算法艺术](https://www.gold.ac.uk/pg/mfa-computational-arts/)专业，通过编程和新科技手段探索艺术创作。"
+  avatar: "https://avatars1.githubusercontent.com/u/44117903"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sunyuqian1997"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.fakedoge.com"
+
+misska1:
+  name: "彭骏"
+  bio: "清华能动2016届在读，辅修智能硬件专业，就读期间曾获MooPas人工智能挑战赛团队冠军，互联网+清华十佳创业团队等奖项。Rebo项目负责代码实现和调试。"
+  avatar: "https://avatars1.githubusercontent.com/u/22286006"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/misska1"
+
+helloosc:
+  name: "舒畅"
+  bio: "将门创投投资经理，原face++投融资，新智元运营副总监。热爱科技，一直热爱人工智能技术和产业实现路径，现在做早期项目投资。可以分享关于科学家、创业、投资的有趣故事。个人热爱心理学，阅读和商业。将门是一家专门做技术投资的早期基金和项目扶持机构。"
+  avatar: "https://avatars1.githubusercontent.com/u/53476343"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/helloosc"
+
+jenniferlee520:
+  name: "蔡学镛"
+  bio: "曾任创新工场首席布道师，阿里巴巴集团支付宝架构师，银联移动支付首席产品架构师。一直在研究「让编程更简单」，就这么走着走着，就走进人机界面和自然语言的领域。「让编程更简单」做到极致就是「让人机沟通更容易」。我目前有一个构思多年的设计，之前写脚本验证过，接下来打算好好用 Rust 语言来实现，同时继续克服一些设计上的难题。"
+  avatar: "https://avatars1.githubusercontent.com/u/17034585"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JenniferLee520"
+
+zhyr:
+  name: "张玉睿"
+  bio: "阅粒创始人&CEO。前百度搜索产品科学家，曾任即刻产品总监，360搜索总监。阅粒是做基于神经网络的端到端知识问答服务。"
+  avatar: "https://avatars1.githubusercontent.com/u/3829421"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zhyr"
+
+jeffzhu76:
+  name: "朱跃峰"
+  bio: "联络易创始人&CEO。联络易为企业提供SCRM解决方案。"
+  avatar: "https://avatars1.githubusercontent.com/u/53548796"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jeffzhu76"
+
+bobokids:
+  name: "李靖"
+  bio: "微软公司 Bot Framework 产能开发负责人"
+  avatar: "https://avatars1.githubusercontent.com/u/19182479"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bobokids"
+
+xinpascal:
+  name: "欧阳鑫"
+  bio: "异构计算芯片创业公司探索各行业算法在AI芯片上的落地及优化方案，之前主要在CNN有做一些工作，希望在NLP领域跟大家多多交流，有机会希望分享一些底层的技术。"
+  avatar: "https://avatars1.githubusercontent.com/u/3285961"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/xinpascal"
+
+andrewdyhhub:
+  name: "丁煜恒"
+  bio: "微软公司创新技术合作事业部解决方案架构师，微软中国Conversational AI布道师。"
+  avatar: "https://avatars1.githubusercontent.com/u/13727350"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/andrewdyhhub"
+
+limeng:
+  name: "李萌(To Be Fixed)"
+  bio: "小理智能创始人CEO，北大计算机博士。专注于利用人工智能、自然语言处理，通过Chatbot“主动”帮用户发掘信息中的价值。已获弘道资本千万RMB级别天使投资。"
+  avatar: "https://avatars1.githubusercontent.com/u/25336509"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/limingth"
+

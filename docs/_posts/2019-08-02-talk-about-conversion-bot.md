@@ -1,4 +1,14 @@
-# 浅谈人机对话
+---
+title: Chatbot 入坑漫谈
+author: darkli 
+categories: talks
+tags:
+  - 
+header:
+  teaser: /assets/2019/seminar-3/talk-conversational-user-interface-liyunjun.jpg
+---
+
+## 浅谈人机对话
 
 > **写在前面**  
 > 写这篇blog，目的是希望帮助初步接触人机对话的同学可以对这一块的工作有个相对完整的了解

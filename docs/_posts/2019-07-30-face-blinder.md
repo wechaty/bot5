@@ -2,7 +2,7 @@
 title: 脸盲助手 基于微信社交的Chatbot人脸识别应用探索
 author: creatorkuang
 date: 2019-07-26 20:00 +0800
-categories: talk
+categories: talks
 tags:
   - bot
   - face
