@@ -52,6 +52,10 @@ header:
 1. 张毅，法瑞投资顾问有限公司，总经理
 1. 陈蔚文，自由IT顾问，曾在IT咨询公司从事SAP ERP咨询相关工作20余年，90年代程序员。
 1. 陈俊良，北京图知天下科技有限责任公司，硬件及嵌入式工程师。
+1. 李晶莹，IT男，智能字典
+1. 白英娜，微软Bot Framework产品团队
+1. 赵俊良，毛豆网客服总监，北京交通大学硕士，曾任北京联合大学信息学院讲师，拥有十余年嵌入式系统研发经历和智能仪器测控领域的创业经历
+1. 刘征
 
 ## Talks
 
@@ -87,11 +91,11 @@ header:
 
 ### 1 实现支持微信小程序的聊天机器人
 
-![赵俊良]({{ '/assets/2019/seminar-5/slide-zhishiguanli.jpg' | relative_url }})
+![赵俊良]({{ '/assets/2019/seminar-5/talk-wechat-mini-program-chatbot.jpg' | relative_url }})
 
 赵俊良，毛豆网客服总监，北京交通大学硕士，曾任北京联合大学信息学院讲师，拥有十余年嵌入式系统研发经历和智能仪器测控领域的创业经历
 
-幻灯片：[实现支持微信小程序的聊天机器人](/assets/2019/seminar-5/slide-wechat-mini-program-chatbot.pdf)
+幻灯片：[实现支持微信小程序的聊天机器人](/assets/js/viewer-js/#/assets/2019/seminar-5/slide-wechat-mini-program-chatbot.pdf)
 
 <div class="zoom-container" style="
     position: relative;
