@@ -31,7 +31,7 @@ header:
 
 开发涉及到wechaty,wechaty-puppet,wechaty-puppet-padpro三个库，测试使用官方的wechaty-getting-started，各种关联错综复杂，这里需要感谢一下苏畅，在他的帮助下，我花了一天时间跑通了本地的开发环境，在捅破窗户纸之后，其实也很简单
 各个库之间的关联如下图所示
-![wechaty-link.png](/assets/2019/send-miniprogram/wechaty-link.png)
+![wechaty-link.jpg](/assets/2019/send-miniprogram/wechaty-link.jpg)
 
 * wechaty,wechaty-puppet,wechaty-puppet-padpro这三个库在本地都需要
   * npm i && npm run dist && npm link
@@ -73,13 +73,13 @@ export interface MiniProgramPayload {
 ```
 
 其中username和appid可以在小程序的后台获得，有这两项，就可以发送出小程序了，但是样子是这样的
-![miniprogram-empty.png](/assets/2019/send-miniprogram/miniprogram-empty.png)
+![miniprogram-empty.jpg](/assets/2019/send-miniprogram/miniprogram-empty.jpg)
 
 thumbnailurl是预留的，目前还不起作用，计划未来通过这个url传送一个图片，用于小程序的封面，其余各项对应关系如下图
-![miniprogram-no-cover.png](/assets/2019/send-miniprogram/miniprogram-no-cover.png)
+![miniprogram-no-cover.jpg](/assets/2019/send-miniprogram/miniprogram-no-cover.jpg)
 
 到这一步，由于无法自动生成cdnthumbnail相关的信息，小程序还不能显示出图片，为了满足业务的需要，我们通过分析小程序xml，提取出了相关数据，硬编码在padpro里，这样终于可以发送出一个相对完整的小程序了，缺点是图片是固定的。未来如果有高手熟悉小程序cdn这部分，可以继续完善padpro。
-![miniprogram-padpro.png](/assets/2019/send-miniprogram/miniprogram-padpro.png)
+![miniprogram-padpro.jpg](/assets/2019/send-miniprogram/miniprogram-padpro.jpg)
 
 关于wechaty-puppet-padpro中小程序的详细部分，可以参考[如何用PadPro实现发送微信小程序](https://blog.chatie.io/send-miniprogram-using-padpro/)
 
@@ -91,7 +91,7 @@ thumbnailurl是预留的，目前还不起作用，计划未来通过这个url�
 
 毛豆少儿课堂小程序，初步是想通过识别出时间，设置课程提醒，所以对于时间的识别就很关键，经过测试对比，我们NLP最终选用了微软的[@microsoft/recognizers-text-suite](https://github.com/microsoft/Recognizers-Text)，微软NLP比较复杂，根据输入的文本，返回一个复杂的json值，在这个返回值中，找到需要字段中的时间。寻找优先级路径如下图，如果在datetime中找到有效时间，就返回，否则在time中查找，如此一级一级，如果所有字段都没有有效时间，返回空，不建立课程提醒。
 
-![nlp-gettime.png](/assets/2019/send-miniprogram/nlp-gettime.png)
+![nlp-gettime.jpg](/assets/2019/send-miniprogram/nlp-gettime.jpg)
 
 ### 一些识别歧义的处理
 
@@ -113,15 +113,15 @@ msgText = msgText.replace(/(^\s*)/g, '')
 
 * 时间歧义
 可以看到nlp解析出两个日期，上周日和本周日，一般我们认为是本周日，所以选用第二个结果
-![time1.png](/assets/2019/send-miniprogram/time1.png)
+![time1.jpg](/assets/2019/send-miniprogram/time1.jpg)
 
 根据提供日期和时间，可以分析出两种情况
 第一种，有四个结果，第二个结果
-![time1.png](/assets/2019/send-miniprogram/time1.png)
+![time1.jpg](/assets/2019/send-miniprogram/time1.jpg)
 
-![time2.png](/assets/2019/send-miniprogram/time2.png)
+![time2.jpg](/assets/2019/send-miniprogram/time2.jpg)
 
-![time3.png](/assets/2019/send-miniprogram/time3.png)
+![time3.jpg](/assets/2019/send-miniprogram/time3.jpg)
 
 * 九号楼的歧义
 
@@ -129,9 +129,9 @@ msgText = msgText.replace(/(^\s*)/g, '')
     var msgText2 = msgText.replace(/号楼/g, '#号楼')
 ```
 
-![building9-1.png](/assets/2019/send-miniprogram/building9-1.png)
+![building9-1.jpg](/assets/2019/send-miniprogram/building9-1.jpg)
 
-![building9-2.png](/assets/2019/send-miniprogram/building9-2.png)
+![building9-2.jpg](/assets/2019/send-miniprogram/building9-2.jpg)
 
 * 2-6点歧义
 
@@ -139,9 +139,9 @@ msgText = msgText.replace(/(^\s*)/g, '')
 var msgText2 = msgText2.replace(/(\d+)\-(\d+)点/g, '$1点-$2点')
 ```
 
-![timewithdash-1.png](/assets/2019/send-miniprogram/timewithdash-1.png)
+![timewithdash-1.jpg](/assets/2019/send-miniprogram/timewithdash-1.jpg)
 
-![timewithdash-2.png](/assets/2019/send-miniprogram/timewithdash-2.png)
+![timewithdash-2.jpg](/assets/2019/send-miniprogram/timewithdash-2.jpg)
 
 * 小助手新加好友的处理
 
@@ -149,11 +149,11 @@ var msgText2 = msgText2.replace(/(\d+)\-(\d+)点/g, '$1点-$2点')
 var msgText2 = msgText2.replace(/现在/g, '')
 ```
 
-![newfriend-1.png](/assets/2019/send-miniprogram/newfriend-1.png)
+![newfriend-1.jpg](/assets/2019/send-miniprogram/newfriend-1.jpg)
 
-![newfriend-2.png](/assets/2019/send-miniprogram/newfriend-2.png)
+![newfriend-2.jpg](/assets/2019/send-miniprogram/newfriend-2.jpg)
 
-![newfriend-3.png](/assets/2019/send-miniprogram/newfriend-3.png)
+![newfriend-3.jpg](/assets/2019/send-miniprogram/newfriend-3.jpg)
 
 ### 与现有产品的挂接
 
@@ -190,7 +190,7 @@ var msgText2 = msgText2.replace(/现在/g, '')
 
 创建课程
 
-![demo.png](/assets/2019/send-miniprogram/demo.png)
+![demo.jpg](/assets/2019/send-miniprogram/demo.jpg)
 
 ## 后续工作
 
