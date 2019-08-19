@@ -197,10 +197,6 @@ header:
 
 俱乐部决定举办一场 Bot Framework 专题沙龙，邀请微软 Bot Framework 产品团队的常青（Elaine Chang）、李靖、白英娜（Brenda Bai）、丁煜恒参加。时间定在 8月23日（周五） ，定向邀请使用过微软 Bot Builder 的开发者参与；
 
-3、Chatbot TVP
-
-[TVP（腾讯最具价值专家）]({{ '/assets/2019/seminar-3/tvp-introduction.jpg' | relative_url }})目前还没有 Chatbot 的方向。所有会员一致同意大家一起[申请TVP]({{ '/assets/2019/seminar-3/tvp-application-form.docx' | relative_url }})并推动 Chatbot 方向的设立。（争取本周提交申请表）
-
 4、Listen, Ask, Share
 
 1. 参加沙龙活动，第一次参加可以通过会员邀请直接参加；第二次如果还希望参加，则需要提交未来自己可以分享的主题（当前阶段），或需要报名进行分享，之后才可以成为正式会员，参加活动；
