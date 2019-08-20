@@ -21,15 +21,15 @@ header:
 
 ## wechaty的小程序实现
 
-由于项目的需求，接入了wechaty，感觉很好用，后来发现在发小程序部分还不能实现，在大神们的鼓励下，历经艰辛，改成了能用的状态。后来李卓桓建议我们提交PR，第一次给开源项目提交PR，本以为很简单，实际中也碰到了一些问题，好在都解决了。
+由于项目的需求，接入了wechaty，感觉很好用。后来发现，发送小程序部分还不能实现，在大神们的鼓励下，历经艰辛，修改成了可以成功的发送小程序。后来在李卓桓的建议下，我们提交了PR，第一次给开源项目提交PR，本以为很简单，实际中也碰到了一些问题，好在都解决了。
 
 ### 开发环境的建立
 
-新手做开发时，在这一步可能会花费大量的时间，我首次建立本地开发环境时，就花了一天的时间，这个时间完全可以节省下来，这里对wechaty-puppet-padpro本地开发环境的配置，做个简要说明，希望后续的开发者能更加容易的用wechaty做开发。
+新手做开发时，在这一步可能会浪费大量的时间。我本人就是这样，首次建立本地开发环境时，花了一天的时间，其实这个时间完全可以节省下来，这里对wechaty-puppet-padpro本地开发环境的配置，做个简要说明，希望后续的开发者能更加容易的用wechaty做开发。
 
-开发涉及到wechaty,wechaty-puppet,wechaty-puppet-padpro三个库，测试使用官方的wechaty-getting-started，各种关联错综复杂，这里需要感谢一下苏畅，在他的帮助下，我也花费了一天时间才跑通，但是在捅破窗户纸之后，发现其实也很简单
+这里涉及到[wechaty](https://github.com/Chatie/wechaty),[wechaty-puppet](https://github.com/Chatie/wechaty-puppet),[wechaty-puppet-padpro](https://github.com/botorange/wechaty-puppet-padpro)三个库，测试使用官方的[wechaty-getting-started](https://github.com/wechaty/wechaty-getting-started)，各种关联错综复杂，这里需要感谢一下苏畅，在他的帮助下，我也花费了一天时间才跑通，但是在捅破窗户纸之后，发现其实也很简单
 
-各个库之间的关联
+各个库之间的关联关系如下图
 
 ![wechaty-link.jpg](/assets/2019/send-miniprogram/wechaty-link.jpg)
 
@@ -38,14 +38,14 @@ header:
   * 改动代码后需要运行 npm run dist
   * npm i之后，需要运行npm link
 
-* wechaty链接上本地库
+* [wechaty](https://github.com/Chatie/wechaty)链接上本地库
 
 ```bash
 npm link wechaty-puppet
 npm link wechaty-puppet-padpro
 ```
 
-* wechaty-getting-started链接上本地wechaty
+* [wechaty-getting-started](https://github.com/wechaty/wechaty-getting-started)链接上本地[wechaty](https://github.com/Chatie/wechaty)
 
 ```bash
 npm link wechaty
@@ -80,11 +80,11 @@ thumbnailurl是预留的，目前还不起作用，计划未来通过这个url�
 
 ![miniprogram-no-cover.jpg](/assets/2019/send-miniprogram/miniprogram-no-cover.jpg)
 
-到这一步，由于无法自动生成cdnthumbnail相关的信息，小程序还不能显示出图片，为了满足业务的需要，我们通过分析小程序xml，提取出了相关数据，硬编码在padpro里，这样终于可以发送出一个相对完整的小程序了，缺点是图片是固定的。未来如果有高手熟悉小程序cdn这部分，可以继续完善padpro。
+到这一步，由于无法自动生成cdnthumbnail相关的信息，小程序还不能显示出图片，为了满足业务的需要，我们通过分析小程序xml，提取出了相关数据，硬编码在padpro里。这样终于可以发送出一个相对完整的小程序了，缺点是图片是固定的。未来如果有高手熟悉小程序cdn这部分，可以继续完善[wechaty-puppet-padpro](https://github.com/botorange/wechaty-puppet-padpro)。
 
 ![miniprogram-padpro.jpg](/assets/2019/send-miniprogram/miniprogram-padpro.jpg)
 
-关于wechaty-puppet-padpro中小程序的详细部分，可以参考[如何用PadPro实现发送微信小程序](https://blog.chatie.io/send-miniprogram-using-padpro/)
+关于[wechaty-puppet-padpro](https://github.com/botorange/wechaty-puppet-padpro)中小程序的详细部分，可以参考[如何用PadPro实现发送微信小程序](https://blog.chatie.io/send-miniprogram-using-padpro/)
 
 ## 用正则表达式实现聊天机器人
 
@@ -92,7 +92,7 @@ thumbnailurl是预留的，目前还不起作用，计划未来通过这个url�
 
 ### 对于时间的识别
 
-毛豆少儿课堂小程序，初步是想通过识别出时间，设置课程提醒，所以对于时间的识别就很关键，经过测试对比，我们NLP最终选用了微软的[@microsoft/recognizers-text-suite](https://github.com/microsoft/Recognizers-Text)，微软NLP比较复杂，根据输入的文本，返回一个复杂的json值，在这个返回值中，找到需要字段中的时间。寻找优先级路径如下图，如果在datetime中找到有效时间，就返回，否则在time中查找，如此一级一级，如果所有字段都没有有效时间，返回空，不建立课程提醒。
+毛豆少儿课堂小程序，是想通过识别出时间，设置课程提醒，所以对于时间的识别就很关键，经过测试对比，NLP最终选用了微软的[@microsoft/recognizers-text-suite](https://github.com/microsoft/Recognizers-Text)，微软的NLP，根据输入的文本，返回一个复杂的json值，在这个返回值中，找到字段中的需要时间。寻找优先级路径如下图。例如，在datetime中找到有效时间，就返回，否则在time中查找，如此一级一级，如果所有字段都没有有效时间，返回空，不建立课程提醒。
 
 ![nlp-gettime.jpg](/assets/2019/send-miniprogram/nlp-gettime.jpg)
 
@@ -203,7 +203,7 @@ var msgText2 = msgText2.replace(/现在我们/g, '')
 
 ## demo-毛豆课堂现场的快速体验
 
-最后，在现场做了一个[毛豆课堂](https://maodouketang.com)的demo，通过和小助手互动，我创建了课程和小程序提醒，将小程序推送给现场嘉宾，加入小程序提醒后，会收到短信上课提醒，通过短信中的链接，能很快速进入课堂进行互动。
+分享的最后，在现场做了一个[毛豆课堂](https://maodouketang.com)的demo，通过和小助手互动，创建了课程和小程序提醒，将小程序推送给现场嘉宾，加入小程序提醒后，会收到短信上课提醒，通过短信中的链接，用户能很快速进入课堂进行互动。
 
 ![demo.jpg](/assets/2019/send-miniprogram/demo.jpg)
 
