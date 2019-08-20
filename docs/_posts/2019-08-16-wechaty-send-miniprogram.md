@@ -1,6 +1,6 @@
 ---
 title: 实现支持微信小程序的聊天机器人
-author: 赵俊良
+author: zhaoic
 date: 2019-08-16 19:00 +0800
 categories: talks
 tags:
