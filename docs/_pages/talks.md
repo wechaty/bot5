@@ -27,6 +27,7 @@ Talks from our BOT5 members.
 | [S1E4](https://www.bot5.club/events/seminar-minutes-4/) | [蔡学镛](/people/jenniferlee520) | [一种灵活的自然语言存储方式](#TBD) |
 | [S1E4](https://www.bot5.club/events/seminar-minutes-4/) | [梁皓然](/people/lhr0909) | [用Snowboy打造自己的树莓派语音助手](https://www.bot5.club/talks/snowboy-demo/) |
 | [S1E5](https://www.bot5.club/events/seminar-minutes-5/) | [赵俊良](/people/zhaoic) | [实现支持微信小程序的聊天机器人](https://www.bot5.club/talks/wechaty-send-miniprogram/) |
+| [S1E5](https://www.bot5.club/events/seminar-minutes-5/) | [张玉睿](/people/zhyr) | [如何在微信上做知识管理](https://www.bot5.club/talks/zhyr-km-by-wechat) |
 
 ## Queue
 
