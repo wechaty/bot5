@@ -1,4 +1,16 @@
-# 如何在微信上做知识管理
+---
+title:如何在微信上做知识管理
+author:zhyr
+date:2019-08-16 19:04 +0800
+categories:talks
+tags:
+  -bot
+  -chatbot
+  -wechat
+  -KM
+ ---
+
+## 如何在微信上做知识管理
 
 知识管理是个人学习成长能力强有力支撑。学习是一项知识管理活动。
 
