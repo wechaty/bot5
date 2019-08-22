@@ -1,14 +1,18 @@
 ---
-title:如何在微信上做知识管理
-author:zhyr
-date:2019-08-16 19:04 +0800
-categories:talks
+title: 如何在微信上做知识管理
+author: zhyr
+date: 2019-08-16 19:30 +0800
+categories: talks
 tags:
-  -bot
-  -chatbot
-  -wechat
-  -KM
+  - bot
+  - chatbot
+  - wechat
+  - KM
+header:
+  teaser: /assets/2019/seminar-5/talk-zhishiguanli.jpg
 ---
+
+<< 本次活动通知: [Bot Friday 第五弹](https://blog.chatie.io/bot-friday-fifth/) <<
 
 ## 如何在微信上做知识管理
 
