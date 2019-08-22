@@ -12,6 +12,8 @@ header:
   teaser: /assets/2019/seminar-5/talk-zhishiguanli.jpg
 ---
 
+<< 本次活动通知: [Bot Friday 第五弹](https://blog.chatie.io/bot-friday-fifth/) <<
+
 ## 如何在微信上做知识管理
 
 知识管理是个人学习成长能力强有力支撑。学习是一项知识管理活动。
