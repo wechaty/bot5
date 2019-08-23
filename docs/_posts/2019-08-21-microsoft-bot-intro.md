@@ -23,15 +23,15 @@ Azure 机器人服务和 Bot Framework 提供的工具可用于在一个位置�
 
 Azure 机器人服务和 Bot Framework 提供：
 
-- 用于开发机器人的 Bot Framework SDK
-- 涵盖端到端机器人开发工作流的 Bot Framework 工具
-- Bot Framework Service (BFS)，用于在机器人和通道之间发送和接收消息和事件
-- Azure 中的机器人部署和通道配置
+* 用于开发机器人的 Bot Framework SDK
+* 涵盖端到端机器人开发工作流的 Bot Framework 工具
+* Bot Framework Service (BFS)，用于在机器人和通道之间发送和接收消息和事件
+* Azure 中的机器人部署和通道配置
 
 另外，机器人可能使用其他 Azure 服务，例如：
 
-- 用于生成智能应用程序的 Azure 认知服务
-- 用于云存储解决方案的 Azure 存储
+* 用于生成智能应用程序的 Azure 认知服务
+* 用于云存储解决方案的 Azure 存储
 
 ## **构建机器人**
 
