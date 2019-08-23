@@ -5,7 +5,7 @@ categories: events
 tags:
   - BotFramework
   - Azure
-  - LUis
+  - Luis
   - QnAMaker
 ---
 
