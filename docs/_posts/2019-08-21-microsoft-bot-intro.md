@@ -1,3 +1,14 @@
+---
+title: Microsoft Bot Framework 介绍
+author: andrewdyhhub
+categories: events
+tags:
+  - BotFramework
+  - Azure
+  - LUis
+  - QnAMaker
+---
+
 # Microsoft Bot Framework 介绍
 
 Azure 机器人服务和 Bot Framework 提供的工具可用于在一个位置构建、测试、部署和管理智能机器人。 通过使用 SDK、工具、模板和 AI 服务提供的模块化可扩展框架，开发人员可以创建可使用语音、自然语言理解、问题和答案处理等功能的机器人。
