@@ -22,8 +22,8 @@ Azure 机器人服务和 Bot Framework 提供的工具可用于在一个位置�
 机器人可以完成其他类型的软件可以完成的任务 - 读写文件、使用数据库和 API，以及执行常规的计算任务。 使机器人不同于其他软件的是，它们使用的通信机制通常是人与人之间通信才会使用的。
 
 Azure 机器人服务和 Bot Framework 提供：
-- 用于开发机器人的 Bot Framework SDK
 
+- 用于开发机器人的 Bot Framework SDK
 - 涵盖端到端机器人开发工作流的 Bot Framework 工具
 - Bot Framework Service (BFS)，用于在机器人和通道之间发送和接收消息和事件
 - Azure 中的机器人部署和通道配置
