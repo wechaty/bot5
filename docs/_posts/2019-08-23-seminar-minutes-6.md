@@ -68,7 +68,7 @@ Elaine CHANG（常青）, 李靖, Brenda BAI（白英娜）, andrewdyhhub（丁�
 
 << microsoft-bot-intro: [blog](https://www.bot5.club/microsoft-bot-intro/) <<
 
-### 2 如何基于微信做知识管理
+### 2 Bot Builder Adapter for Wechat Individual Account
 
 ![李卓桓]({{ '/assets/2019/seminar-6/talk-adapter.jpg' | relative_url }})
 
