@@ -8,9 +8,9 @@ header:
   teaser: /assets/2019/seminar-6/group-photo.jpg
 ---
 
-<< Bot5 第五次活动纪要: [Bot5 Episode 4](https://bot5.club/events/seminar-minutes-5) <<
+<< Bot5 第五次活动纪要: [Bot5 Episode 5](https://bot5.club/events/seminar-minutes-5) <<
 
-## Bot Friday Episode 5
+## Bot Friday Episode 6
 
 - 时间：2019年8月23日（周五）18:30 - 22:30（4小时）
 - 地点：微软中国（中关村微软大厦一层）
