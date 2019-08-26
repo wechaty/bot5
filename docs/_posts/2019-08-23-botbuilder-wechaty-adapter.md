@@ -27,10 +27,10 @@ If you are finding the Bot Framework v3 version of this adapter, please goto:
 
 ## FEATURES
 
-* Ready for Microsoft Bot Framework v4
-* **no need a registered bot** on [dev.botframework.com](https://dev.botframework.com/), but require a wechat individual(NOT official!) account.
-* Powered by [wechaty](https://github.com/chatie/wechaty)
-* Support receiving and sending almost any wechat message types(WIP)
+- Ready for Microsoft Bot Framework v4
+- **no need a registered bot** on [dev.botframework.com](https://dev.botframework.com/), but require a wechat individual(NOT official!) account.
+- Powered by [wechaty](https://github.com/chatie/wechaty)
+- Support receiving and sending almost any wechat message types(WIP)
 
 ## INSTALLATION
 
