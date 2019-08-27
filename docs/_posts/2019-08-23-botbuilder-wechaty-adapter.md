@@ -9,7 +9,7 @@ tags:
   - wechaty
   - adapter
 header:
-  teaser: /assets/2019/botbuilder-wechaty-adapter/wechaty-connect-wechat.png
+  teaser: /assets/2019/botbuilder-wechaty-adapter/botbuilder-wechaty.jpg
 ---
 
 Microsoft Bot Framework v4 adapter for Wechat **Individual** Account
@@ -17,8 +17,7 @@ Microsoft Bot Framework v4 adapter for Wechat **Individual** Account
 - Github: <https://github.com/huan/botbuilder-wechaty-adapter>
 - NPM: <https://www.npmjs.com/package/botbuilder-wechaty-adapter>
 
-![BotBuilder Wechaty Adapter](https://raw.githubusercontent.com/huan/botbuilder-wechaty-adapter/HEAD/docs/images/botbuilder-wechaty.jpg)
-> Source: [Time to do it differently, build chatbots with streams](http://fizzylogic.nl/2018/03/09/time-to-do-it-differently-build-chatbots-with-streams/)
+![BotBuilder Wechaty Adapter](/assets/2019/botbuilder-wechaty-adapter/wechaty-connect-wechat.png)
 
 If you are finding the Bot Framework v3 version of this adapter, please goto:
 
