@@ -28,6 +28,8 @@ Talks from our BOT5 members.
 | [S1E4](https://www.bot5.club/events/seminar-minutes-4/) | [梁皓然](/people/lhr0909) | [用Snowboy打造自己的树莓派语音助手](https://www.bot5.club/talks/snowboy-demo/) |
 | [S1E5](https://www.bot5.club/events/seminar-minutes-5/) | [赵俊良](/people/zhaoic) | [实现支持微信小程序的聊天机器人](https://www.bot5.club/talks/wechaty-send-miniprogram/) |
 | [S1E5](https://www.bot5.club/events/seminar-minutes-5/) | [张玉睿](/people/zhyr) | [如何在微信上做知识管理](https://www.bot5.club/talks/zhyr-km-by-wechat) |
+| [S1E6](https://bot5.club/events/seminar-minutes-6/) | [丁煜恒](https://bot5.club/people/andrewdyhhub) | [Microsoft Bot Framework 介绍](https://www.bot5.club/talks/microsoft-bot-intro/) |
+| [S1E6](https://www.bot5.club/events/seminar-minutes-6/) | [李卓桓](/people/huan) | [Connect to Wechat: Bot Builder Adapter for Wechat Individual Account](https://www.bot5.club/talks/botbuilder-wechaty-adapter/) |
 
 ## Queue
 
