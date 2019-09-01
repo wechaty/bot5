@@ -24,25 +24,23 @@ BOT5 随时欢迎新朋友加入，前提是需要你：
 
 如果你自认为符合上述两个条件，那么欢迎你做为 BOT5 俱乐部的新人申请加入。
 
-## 新人加入要求
+## 新人参加活动要求
 
-1. 通过一位 BOT5 俱乐部的正式会员推荐。在未来推荐人将作为新人的 Mentor
+1. 通过一位 BOT5 俱乐部的正式会员推荐。在未来推荐人将作为新人的 Mentor，Mentor需要帮助新人加入 Bot Friday Open Forum 微信群中。
 1. **watch** & **star** 沙龙活动组织的 Repository: <https://github.com/wechaty/bot5.club>
 1. 新人第一次加入之前，需要学习 Bot Friday Club 的活动规则、目标、规则和背景：
     1. （必读）阅读最后一场[沙龙活动纪要](https://bot5.club/categories/#events)
     1. （可选）阅读[沙龙活动手册](https://bot5.club/manuals/)
-1. 新人第一次参加前推荐提交 Pull Request 参会；如果第二次还想参加活动，则需要按会员要求必须提交 PR 后，方可作为见习会员加入。
-1. 连续参加三次沙龙活动，可以转正为正式会员。
+1. 新人第一次参加方法：在最后一场[沙龙活动纪要](https://bot5.club/categories/#events)中的评论区按照下面模板进行报名：
+    1. 姓名
+    1. 公司
+    1. 个人简介（100字左右即可）
+    1. 推荐人
+    1. 分享内容（如果有）
 1. 如果沙龙活动人数过多，主席有权限将总人数限制在主席认为的合理范围之内。新人有可能会被拒绝参加活动。
 
-## 新人加入方法
+## 新人转为会员的方法
 
-首先，请确认自己已经 **watch** & **star** 沙龙活动组织的 Repository: <https://github.com/wechaty/bot5.club>
-
-然后，回复最后一次[沙龙活动纪要](https://bot5.club/categories/#events)，进行报名即可。
-
-报名格式：
-
-1. 个人简介（100字左右即可）
-1. 推荐人
-1. 分享内容（如果有）
+1. 报名分享的人，可以转正为正式会员。
+1. 报名成功的标准为： 通过过 Github 以 Pull Request 的形式提交到[沙龙报名登记](https://github.com/wechaty/bot5.club/blob/master/docs/_pages/talks.md)，完成合并之后，即可正式成为 BOT Friday Club 的会员。
+1. Mentor帮助新会员加入 Bot Friday Club - BOT5 微信群中。

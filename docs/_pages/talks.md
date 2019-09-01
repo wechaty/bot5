@@ -26,12 +26,15 @@ Talks from our BOT5 members.
 | [S1E3](https://www.bot5.club/events/seminar-minutes-3/) | [孙羽茜](/people/sunyuqian1997), [彭俊](/people/misska1) | [情感化ChatBot的另一种思路](https://www.bot5.club/talks/emotional-chatbot/) |
 | [S1E4](https://www.bot5.club/events/seminar-minutes-4/) | [蔡学镛](/people/jenniferlee520) | [一种灵活的自然语言存储方式](#TBD) |
 | [S1E4](https://www.bot5.club/events/seminar-minutes-4/) | [梁皓然](/people/lhr0909) | [用Snowboy打造自己的树莓派语音助手](https://www.bot5.club/talks/snowboy-demo/) |
+| [S1E5](https://www.bot5.club/events/seminar-minutes-5/) | [赵俊良](/people/zhaoic) | [实现支持微信小程序的聊天机器人](https://www.bot5.club/talks/wechaty-send-miniprogram/) |
+| [S1E5](https://www.bot5.club/events/seminar-minutes-5/) | [张玉睿](/people/zhyr) | [如何在微信上做知识管理](https://www.bot5.club/talks/zhyr-km-by-wechat) |
+| [S1E6](https://bot5.club/events/seminar-minutes-6/) | [丁煜恒](https://bot5.club/people/andrewdyhhub) | [Microsoft Bot Framework 介绍](https://www.bot5.club/talks/microsoft-bot-intro/) |
+| [S1E6](https://www.bot5.club/events/seminar-minutes-6/) | [李卓桓](/people/huan) | [Connect to Wechat: Bot Builder Adapter for Wechat Individual Account](https://www.bot5.club/talks/botbuilder-wechaty-adapter/) |
 
 ## Queue
 
 | Seminar | Member | Topic |
 | ------- | ------ | ----- |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [俊良](https://bot5.club/people/) | [Wechaty Mini Program Support](https://www.bot5.club/talks/TBD) |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李明](https://bot5.club/people/limingth) | [What will happen after Chatbot empowered by Mini Program?](https://www.bot5.club/talks/TBD) |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [俊良](https://bot5.club/people/) | [如何用if else 和正则表达式写一个聊天机器人](https://www.bot5.club/talks/TBD) |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [邝伟鹏](https://bot5.club/people/github_username) | [Chatbot 场景分享：秒应，家校沟通的工具。](https://www.bot5.club/talks/TBD) |

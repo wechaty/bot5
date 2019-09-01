@@ -20,6 +20,8 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 [Code of Conduct](/manuals/code-of-conduct/)
 
+[最近一次活动流程](/slides/manual/)
+
 - Manuals
   - [Newcomer Manual](/manuals/newcomer/)
   - [Member Manual](/manuals/member/)
