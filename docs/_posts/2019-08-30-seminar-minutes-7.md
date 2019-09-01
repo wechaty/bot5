@@ -116,6 +116,21 @@ header:
 
 幻灯片：[Bot Market Place / 李卓桓](https://docs.google.com/presentation/d/13oUOIEnzdLWO6KZWztD_pMuu22AQ3SIMjk2wp8f-f18/edit?usp=sharing)
 
+<div class="video-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+<iframe width="560" height="315" src="https://docs.google.com/presentation/d/13oUOIEnzdLWO6KZWztD_pMuu22AQ3SIMjk2wp8f-f18/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="" style="
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+"></iframe></div>
+
 **分享大纲：**
 
 1. 两年前 Wechaty 101 中的 Bot 市场思路介绍  
