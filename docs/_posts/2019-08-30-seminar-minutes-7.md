@@ -64,7 +64,7 @@ header:
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-7/BotFridy-duanqinghua.pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-7/slides-duanqinghua.pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
