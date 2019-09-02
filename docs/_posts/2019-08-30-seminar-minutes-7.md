@@ -1,6 +1,6 @@
 ---
 title: Bot Friday 第七次活动纪要
-author: liyunjun
+author: darkli
 categories: events
 tags:
   - minutes
