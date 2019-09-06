@@ -1,8 +1,19 @@
-# Microsoft Bot Framework 介绍
+---
+title: Microsoft Bot Framework 介绍
+author: andrewdyhhub
+categories: talks
+tags:
+  - BotFramework
+  - Azure
+  - Luis
+  - QnAMaker
+---
+
+## Microsoft Bot Framework 介绍
 
 Azure 机器人服务和 Bot Framework 提供的工具可用于在一个位置构建、测试、部署和管理智能机器人。 通过使用 SDK、工具、模板和 AI 服务提供的模块化可扩展框架，开发人员可以创建可使用语音、自然语言理解、问题和答案处理等功能的机器人。
 
-## **什么是机器人？**
+## 什么是机器人
 
 机器人提供的体验让你感觉不太像在使用计算机，而更像是在与人打交道，或者至少是在与智能机器人打交道。 可以使用机器人将简单的重复性任务（例如订餐或收集个人资料信息）转移给不再需要直接人为干预的自动化系统来完成。 用户使用文本、交互卡和语音与机器人聊天。 机器人交互可以是快速的问答式交互，也可以是复杂的聊天，通过聊天以智能方式提供对服务的访问权限。
 
@@ -22,15 +33,15 @@ Azure 机器人服务和 Bot Framework 提供：
 - 用于生成智能应用程序的 Azure 认知服务
 - 用于云存储解决方案的 Azure 存储
 
-## **构建机器人**
+## 构建机器人
 
 Azure 机器人服务和 Bot Framework 提供一组集成的工具和服务来加快此过程。 请选择最喜欢的开发环境或命令行工具以创建机器人。 提供用于 C#、JavaScript 和 Typescript 的 SDK。 （用于 Java 和 Python 的 SDK 正在开发。）我们提供适合各个机器人开发阶段的工具，方便你设计和生成机器人。
 
-### **计划**
+### 计划
 
 与任何类型的软件一样，若要创建成功的机器人，必须全面了解目标、流程和用户需求。 在编写代码之前，请参阅[设计指南](https://docs.microsoft.com/zh-cn/azure/bot-service/bot-service-design-principles?view=azure-bot-service-4.0) ，了解最佳做法并确定机器人的需求。 可以创建简单的机器人，也可以让机器人包含较复杂的功能，例如语音、自然语言理解和问题解答。
 
-### **构建**
+### 构建
 
 机器人是一项 Web 服务，可实现聊天式界面并与 Bot Framework Service 通信，以便发送和接收消息和事件。 Bot Framework Service 是 Azure 机器人服务和 Bot Framewrk 的一个组件。 可在任意数目的环境和语言中创建机器人。 可在 [Azure](https://docs.microsoft.com/zh-cn/azure/bot-service/bot-service-quickstart?view=azure-bot-service-4.0)[门户](https://docs.microsoft.com/zh-cn/azure/bot-service/bot-service-quickstart?view=azure-bot-service-4.0)中开始机器人开发，也可使用 [[C#](https://docs.microsoft.com/zh-cn/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0) | [JavaScript](https://docs.microsoft.com/zh-cn/azure/bot-service/javascript/bot-builder-javascript-quickstart?view=azure-bot-service-4.0)] 模板进行本地开发。
 
@@ -49,22 +60,22 @@ Azure 机器人服务和 Bot Framework 提供一组集成的工具和服务来�
 
 还可以访问各种[示例](https://github.com/microsoft/botbuilder-samples)，了解通过 SDK 提供的多项功能。 这些特别适用于希望从功能较丰富的示例着手的开发人员。
 
-### **测试**
+### 测试
 
 机器人是复杂的应用，有大量不同的协同工作的部件。 就像其他复杂应用一样，这可能会导致出现一些需要关注的 Bug，或者会导致机器人的行为异常。 发布前，请先测试机器人。 在发布机器人供用户使用之前，我们提供了多种方式来测试机器人：
 
 - 使用[模拟器](https://docs.microsoft.com/zh-cn/azure/bot-service/bot-service-debug-emulator?view=azure-bot-service-4.0)在本地测试机器人。 Bot Framework Emulator 是独立的应用，不仅提供聊天界面，而且提供调试和询问工具来帮助理解机器人的工作方式和工作原理。 此模拟器可以在本地与正在开发的机器人应用程序一起运行。
 - 在 [Web](https://docs.microsoft.com/zh-cn/azure/bot-service/bot-service-manage-test-webchat?view=azure-bot-service-4.0) 上测试机器人。 通过 Azure 门户进行配置以后，机器人也可通过网上聊天界面进行访问。 测试者和其他无法直接访问机器人的运行代码的人员可以通过网上聊天界面访问机器人。
 
-### **发布**
+### 发布
 
 做好在网上发布机器人的准备以后，请将机器人发布到 [Azure](https://docs.microsoft.com/zh-cn/azure/bot-service/bot-builder-howto-deploy-azure?view=azure-bot-service-4.0) 或你自己的 Web 服务或数据中心。 若要将机器人嵌入站点或聊天通道，第一步是获取公共 Internet 上的地址。
 
-### **连接**
+### 连接
 
 将机器人连接到 Facebook、Messenger、Kik、Skype、Slack、Microsoft Teams、Telegram、短信、Twilio、Cortana 和 Skype 等通道。 在通过所有这些不同的平台发送和接收消息的过程中，Bot Framework 完成大多数必需的工作 - 不管连接到的通道的数目和类型如何，机器人应用程序都会收到统一且规范化的消息流。 有关如何添加通道的信息，请参阅[通道](https://docs.microsoft.com/zh-cn/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-4.0)主题。
 
-### **评估**
+### 评估
 
 使用 Azure 门户中收集的数据确定改善机器人功能和性能的机会。 可以获得服务级和检测数据，如流量、延迟和集成。 此外，Analytics 还提供有关用户、消息和通道数据的聊天级报告。 有关详细信息，请参阅[如何收集分析数据](https://docs.microsoft.com/zh-cn/azure/bot-service/bot-service-manage-analytics?view=azure-bot-service-4.0)。
 
