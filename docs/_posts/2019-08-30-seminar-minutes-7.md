@@ -110,8 +110,6 @@ header:
 
 ### 2 Bot Market Place — 可重用能力平台
 
-![李卓桓]({{ '/assets/2019/seminar-7/talk-nanopi-lianghaoran.jpg' | relative_url }})
-
 李卓桓，Github 6000 Star 的微信个人号SDK开源项目 Wechaty 作者，Conversational AI 布道者。曾任水木清华BBS站长，优酷网首席科学家。清华本科，中欧EMBA，北邮博士在读。
 
 幻灯片：[Bot Market Place / 李卓桓](https://docs.google.com/presentation/d/13oUOIEnzdLWO6KZWztD_pMuu22AQ3SIMjk2wp8f-f18/edit?usp=sharing)
