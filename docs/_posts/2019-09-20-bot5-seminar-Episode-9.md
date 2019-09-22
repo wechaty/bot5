@@ -57,6 +57,30 @@ tags:
   - conversation evaluation
   
   - chatbot
+  <div style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <TAG
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  >
++    src='/assets/js/viewer-js/#/assets/2019/slides.pdf`
+  </iframe>
+</div>
   
 ---
 title: 彭军辉，语义理解技术的另一条道路
