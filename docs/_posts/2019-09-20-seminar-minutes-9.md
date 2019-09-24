@@ -4,8 +4,6 @@ author: zhyr
 categories: events
 tags:
   - minutes
-header:
-  teaser: /assets/2019/seminar-bot5-9/heying.jpeg
 ---
 
 « Bot5 第8次活动纪要: Bot5 Episode 8 [Bot5 Episode 8](https://bot5.club/events/seminar-minutes-8) <<
@@ -19,7 +17,7 @@ header:
 - Vice-Chair: 段清华
 - 赞助方: 句子互动
 
-![attendees]({{ '/assets/2019/seminar-bot5-9/heying.jpeg' | relative_url }})
+![attendees]({{ '/assets/2019/seminar-9/seminar-9-group-photo.jpeg' | relative_url }})
 
 
 ## Attendees
@@ -51,7 +49,7 @@ Talks
 ---
 ### 1 张程，如何评价Chatbot交互过程中的主观评估指标
 
-![张程]({{ '/assets/2019/seminar-bot5-9/zhangchengfenxiang.jepg' | relative_url }})
+![张程]({{ '/assets/2019/seminar-9/seminar-9-talk-zhangchengfenxiang.jepg' | relative_url }})
 
 <div class="zoom-container" style="
     position: relative;
@@ -61,7 +59,7 @@ Talks
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/2019-09-20-bot5-对话系统评价.pdf.pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-9/2019-09-20-bot5-对话系统评价.pdf.pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
@@ -80,7 +78,7 @@ Talks
 ---
 ### 2 彭军辉，语义理解技术的另一条道路
 
-![彭军辉]({{ '/assets/2019/seminar-bot5-9/junhuifenxiang.jepg' | relative_url }})
+![彭军辉]({{ '/assets/2019/seminar-9/seminar-9-talk-junhuifenxiang.jepg' | relative_url }})
 
 
 <div class="zoom-container" style="
@@ -91,7 +89,7 @@ Talks
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/2019-09-20-bot5-怎么让机器理解自然语言(5).pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-9/2019-09-20-bot5-怎么让机器理解自然语言(5).pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
@@ -112,7 +110,7 @@ Talks
 
 ### 3 李佳芮，Wechaty -- The Road with Open Source
 
-![李佳芮]({{ '/assets/2019/seminar-bot5-9/jiaruifenxiang.jepg' | relative_url }})
+![李佳芮]({{ '/assets/2019/seminar-9/seminar-9-talk-jiaruifenxiang.jepg' | relative_url }})
 
 
 
@@ -124,7 +122,7 @@ Talks
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/2019-9-20-bot5-Open Source Wechaty.pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-9/2019-9-20-bot5-Open Source Wechaty.pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
@@ -153,7 +151,7 @@ Talks
 下任轮值主席：段清华
 下任轮值副主席：彭骏
 轮值主席任命仪式
-![轮值主席任命仪式]({{ '/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/zhuxiyijiao.jpeg' | relative_url }})
+![轮值主席任命仪式]({{ '/assets/js/viewer-js/#/assets/2019/seminar-9/seminar-9-chairman-appointment.jpeg' | relative_url }})
 
 
 
@@ -166,13 +164,13 @@ Talks
 ## 集体合影
 
 +  <TAG
-+    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/heying.jpeg`
++    src='/assets/js/viewer-js/#/assets/2019/seminar-9/seminar-9-group-photo.jpeg`
 -  <TAG
 
 After Party 🍻
 主场活动结束后，5个人前往补充能量，收获眼泪若干！
 +  <TAG
-+    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/afterparty.jpeg`
++    src='/assets/js/viewer-js/#/assets/2019/seminar-9/afterparty.jpeg`
 -  <TAG
 
 
