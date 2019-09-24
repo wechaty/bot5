@@ -37,9 +37,9 @@
     "@types/image-size": "^0.7.0",
     "file-box": "^0.8.27",
     "glob": "^7.1.4",
-    "image-size": "^0.7.4",
+    "image-size": "^0.8.0",
     "is-pr": "^1.1.0",
-    "probe-image-size": "^4.0.0",
+    "probe-image-size": "^5.0.0",
     "tstest": "^0.4.2"
   }
 }
