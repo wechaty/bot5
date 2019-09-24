@@ -1,3 +1,5 @@
+« Bot5 第8次活动纪要: Bot5 Episode 8
+
 ---
 title: "Chatbot Friday-bot5 Episode 9"
 author: zhyr
