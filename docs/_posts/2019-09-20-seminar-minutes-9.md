@@ -153,7 +153,7 @@ Slides:
 
 
 ## 集体合影
-![轮值主席任命仪式]({{ '/assets/2019/seminar-9/seminar-9-group-photo.jpg' | relative_url }})
+![集体合影]({{ '/assets/2019/seminar-9/seminar-9-group-photo.jpg' | relative_url }})
 
 ## After Party 🍻
 主场活动结束后，5个人前往补充能量，收获眼泪若干！
