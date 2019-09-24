@@ -54,6 +54,10 @@ author: ${your_github_username}
 
 categories: events
 
++  <TAG
++    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/zhangchengfenxiang.jpeg`
+-  <TAG
+
 tags:
 
   - conversation evaluation
@@ -80,8 +84,9 @@ tags:
       height:100%;
     "
   >
-+    src='/assets/js/viewer-js/#/assets/2019/slides.pdf`
-  </iframe>
+-  <TAG
++  <TAG
++    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/2019-09-20-bot5-对话系统评价.pdf.pdf`
 </div>
   
 ---
@@ -90,18 +95,49 @@ title: 彭军辉，语义理解技术的另一条道路
 author: ${JunhuiPeng}
 
 categories: events
++  <TAG
++    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/junhuifenxiang.jpeg`
+-  <TAG
 
 tags:
 
   - NLP
   
   - method
+   <div style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <TAG
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  >
+-  <TAG
++  <TAG
++    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/2019-09-20-bot5-怎么让机器理解自然语言(5).pdf`
+</div>
   
 ---
 
 title: 李佳芮，Wechaty -- The Road with Open Source
 
 author: ${lijiarui}
++  <TAG
++    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/jiaruifenxiang.jpeg`
+-  <TAG
 
 categories: events
 
@@ -114,6 +150,33 @@ tags:
   - open source
   
   - developer community
+  
+  <div style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <TAG
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  >
+  +    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/2019-9-20-bot5-Open Source Wechaty.pdf`
+-  <TAG
+
+
+</div>
   
 ---
 
@@ -131,6 +194,11 @@ tags:
 下任轮值主席：段清华
 下任轮值副主席：彭骏
 轮值主席任命仪式【照片】
++  <TAG
++    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/zhuxiyijiao.jpeg`
+-  <TAG
+
+
 
 下次活动信息
 时间：9月27日（周五） 18:30 - 21:00
@@ -138,8 +206,15 @@ tags:
 副主席：彭骏
 集体合影【合照】
 
++  <TAG
++    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/heying.jpeg`
+-  <TAG
+
 After Party 🍻【合照】
 主场活动结束后，5个人前往补充能量，收获眼泪若干！
++  <TAG
++    src='/assets/js/viewer-js/#/assets/2019/seminar-bot5-9/afterparty.jpeg`
+-  <TAG
 
 
 
