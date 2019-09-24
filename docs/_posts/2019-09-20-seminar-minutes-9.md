@@ -146,6 +146,7 @@ Slides:
 - 下任轮值主席：段清华
 - 下任轮值副主席：彭骏
 轮值主席任命仪式
+
 ![轮值主席任命仪式]({{ '/assets/2019/seminar-9/seminar-9-chairman-appointment.jpg' | relative_url }})
 
 ## 下次活动信息
@@ -155,11 +156,13 @@ Slides:
 
 
 ## 集体合影
-![集体合影]({{ '/assets/2019/seminar-9/seminar-9-group-photo.jpg' | relative_url }})
+
+![合影]({{ '/assets/2019/seminar-9/seminar-9-group-photo.jpg' | relative_url }})
 
 ## After Party 🍻
 主场活动结束后，5个人前往补充能量，收获眼泪若干！
-![afterparty]({{ '/assets/2019/seminar-9/afterparty.jpg' | relative_url }})
+
+![合影]({{ '/assets/2019/seminar-9/afterparty.jpg' | relative_url }})
 
 ## 特别鸣谢:
 
