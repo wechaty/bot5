@@ -8,7 +8,7 @@
   },
   "scripts": {
     "fit-image": "./scripts/fit-image.sh",
-    "lint": "npm run lint:es && npm run lint:ts && npm run lint:md && npm run lint:fn",
+    "lint": "npm run lint:es && npm run lint:ts && npm run lint:fn",
     "lint:es": "eslint 'src/**/*.ts' 'tests/**/*.spec.ts' --ignore-pattern tests/fixtures/",
     "lint:ts": "tsc --noEmit",
     "lint:md": "./node_modules/.bin/markdownlint README.md 'docs/**/*.md'",
