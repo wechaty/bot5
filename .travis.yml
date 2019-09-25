@@ -10,4 +10,5 @@ cache:
     - node_modules
 
 script:
+  - ls -l node_modules/\@chatie/eslint-config/
   - npm test
