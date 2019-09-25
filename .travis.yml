@@ -14,4 +14,6 @@ script:
   - ls -l node_modules/markdownlint-cli/
   - ls -l node_modules/.bin
   - npm ls markdownlint-cli
+  - npm dedupe
+  - npm ls markdownlint-cli
   - npm test
