@@ -48,6 +48,7 @@ header:
 ![张程]({{ '/assets/2019/seminar-9/seminar-9-talk-zhangchengfenxiang.jpg' | relative_url }})
 
 Slides:
+
 <div class="zoom-container" style="
     position: relative;
     padding-bottom:56.25%;
@@ -77,6 +78,7 @@ Slides:
 ![彭军辉]({{ '/assets/2019/seminar-9/seminar-9-talk-junhuifenxiang.jpg' | relative_url }})
 
 Slides:
+
 <div class="zoom-container" style="
     position: relative;
     padding-bottom:56.25%;
@@ -106,6 +108,7 @@ Slides:
 ![李佳芮]({{ '/assets/2019/seminar-9/seminar-9-talk-jiaruifenxiang.jpg' | relative_url }})
 
 Slides:
+
 <div class="zoom-container" style="
     position: relative;
     padding-bottom:56.25%;
@@ -158,7 +161,7 @@ Slides:
 
 ## After Party 🍻
 
-主场活动结束后，5个人前往补充能量，收获眼泪若干！
+主场活动结束后，4个人前往补充能量！
 
 ![合影]({{ '/assets/2019/seminar-9/afterparty.jpg' | relative_url }})
 
