@@ -5,6 +5,9 @@ node_js:
 os:
   - linux
 
+cache:
+  directories:
+    - node_modules
+
 script:
-  - npm i
   - npm test
