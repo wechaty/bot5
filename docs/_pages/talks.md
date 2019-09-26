@@ -54,3 +54,4 @@ Talks from our BOT5 members.
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [彭俊](https://bot5.club/people/github_username) | [如何从0打造7代李白](https://www.bot5.club/talks/TBD) |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [丁煜恒](https://bot5.club/people/github_username) | [Conversation as a Platform](https://www.bot5.club/talks/TBD) |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [欧阳鑫](https://bot5.club/people/github_username) | [BERT Chatbot实践及硬件加速](https://www.bot5.club/talks/TBD) |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [金秋远](https://bot5.club/people/github_username) | [对话机器人在非任务型场景的赛道扫描和国际对比](https://www.bot5.club/talks/TBD) |
