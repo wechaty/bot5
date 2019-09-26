@@ -163,7 +163,7 @@ Slides:
 
 主场活动结束后，4个人前往补充能量！
 
-![合影]({{ '/assets/2019/seminar-9/afterparty.jpg' | relative_url }})
+![合影]({{ '/assets/2019/seminar-9/seminar-9-afterparty.jpg' | relative_url }})
 
 ## 特别鸣谢
 
