@@ -1,6 +1,6 @@
 ---
 title: Bot Friday 第十次活动纪要
-author: huan
+author: qhduan
 categories: events
 tags:
   - minutes
