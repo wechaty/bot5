@@ -1,11 +1,11 @@
 ---
 title: Bot Friday 第十二次活动纪要
-author: pengjun
+author: jeffzhu76
 categories: events
 tags:
   - minutes
 header:
-  teaser: /assets/2019/seminar-11/group.jpg
+  teaser: /assets/2019/seminar-12/group.jpg
 ---
 
 << Bot5 第十一次活动纪要: [Bot5 Episode 11](https://bot5.club/events/seminar-minutes-11) <<
