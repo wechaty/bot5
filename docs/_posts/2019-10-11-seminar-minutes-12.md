@@ -34,7 +34,7 @@ header:
 
 ## Talks
 
-### 1 Bert for Joint Intent Classiﬁcation and Slot Filling 
+### 1 Bert for Joint Intent Classiﬁcation and Slot Filling
 
 ![郭成凯]({{ '/assets/2019/seminar-12/talk1.jpg' | relative_url }})
 
@@ -106,6 +106,7 @@ Slides：
 - 高洪海：尽量不要在会议过程中看手机
 
 ### 脑洞
+
 - 段清华：中国缺少一个做聊天机器人的专业咨询公司，将实现与需求对接起来
 - 李卓桓：就像这次提出的各种场景应用，如果我们能够将功能充分解耦变成一个个的组建，再自由组合，就能很快速的实现复杂的应用。
 - 郭成凯：机器人更多的价值不是去做具体的动作，而是抓取结构化数据，并对数据做分析。在这个地方下功夫可以做出好产品。
