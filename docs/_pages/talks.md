@@ -26,6 +26,7 @@ Talks from our BOT5 members.
 | [S1E7](https://bot5.club/events/seminar-minutes-7/) | [段清华](https://bot5.club/people/qhduan) | 搞定一个对话平台 |
 | [S1E7](https://bot5.club/events/seminar-minutes-7/) | [李卓桓](https://bot5.club/people/huan) | Bot Market Place — 可重用能力平台 |
 | [S1E6](https://www.bot5.club/events/seminar-minutes-6/) | [李卓桓](/people/huan) | [Connect to Wechat: Bot Builder Adapter for Wechat Individual Account](https://www.bot5.club/talks/botbuilder-wechaty-adapter/) |
+| [S1E6](https://bot5.club/events/seminar-minutes-?-?/) | [李靖](https://bot5.club/people/github_username) | [Bot Framework 产品组互动](https://www.bot5.club/talks/TBD) |
 | [S1E6](https://bot5.club/events/seminar-minutes-6/) | [丁煜恒](https://bot5.club/people/andrewdyhhub) | [Microsoft Bot Framework 介绍](https://www.bot5.club/talks/microsoft-bot-intro/) |
 | [S1E5](https://www.bot5.club/events/seminar-minutes-5/) | [赵俊良](/people/zhaoic) | [实现支持微信小程序的聊天机器人](https://www.bot5.club/talks/wechaty-send-miniprogram/) |
 | [S1E5](https://www.bot5.club/events/seminar-minutes-5/) | [张玉睿](/people/zhyr) | [如何在微信上做知识管理](https://www.bot5.club/talks/zhyr-km-by-wechat) |
@@ -40,21 +41,19 @@ Talks from our BOT5 members.
 
 ## Queue
 
-| Seminar | Member | Topic |
-| ------- | ------ | ----- |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李明](https://bot5.club/people/limingth) | [What will happen after Chatbot empowered by Mini Program?](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [俊良](https://bot5.club/people/) | [如何用if else 和正则表达式写一个聊天机器人](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [邝伟鹏](https://bot5.club/people/github_username) | [Chatbot 场景分享：秒应，家校沟通的工具。](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [刘晓倩](https://bot5.club/people/github_username) | [Chatbot 行业应用，智能对话连接数据与商业](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [高原](https://bot5.club/people/github_username) | [企业微信开发实战分享](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [雷飚](https://bot5.club/people/github_username) | [AI + AR + Chatbot = ？](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李靖](https://bot5.club/people/github_username) | [Bot Framework 产品组互动](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [舒畅](https://bot5.club/people/github_username) | [Chatbot行业创业赛道扫描](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [朱跃峰](https://bot5.club/people/github_username) | [教育培训行业的Chatbot应用探索](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [丁煜恒](https://bot5.club/people/github_username) | [Conversation as a Platform](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [欧阳鑫](https://bot5.club/people/github_username) | [BERT Chatbot实践及硬件加速](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [金秋远](https://bot5.club/people/github_username) | [对话机器人在非任务型场景的赛道扫描和国际对比](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [陈远强](https://bot5.club/people/github_username) | [Chatbot中关于反欺诈的应用](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [金庸](https://bot5.club/people/github_username) | [Chatbot和公众号结合代运营](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [郑譞](https://bot5.club/people/github_username) | [聊天机器人和自然语言的标注](https://www.bot5.club/talks/TBD) |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李晶莹](https://bot5.club/people/github_username) | [聊天机器人聊论语](https://www.bot5.club/talks/TBD) |
+| Seminar | Member | Topic | Schedule |
+| ------- | ------ | ----- | -------- |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李明](https://bot5.club/people/limingth) | [What will happen after Chatbot empowered by Mini Program?](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [邝伟鹏](https://bot5.club/people/github_username) | [Chatbot 场景分享：秒应，家校沟通的工具。](https://www.bot5.club/talks/TBD) | Early November 2019 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [刘晓倩](https://bot5.club/people/github_username) | [Chatbot 行业应用，智能对话连接数据与商业](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [高原](https://bot5.club/people/github_username) | [企业微信开发实战分享](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [雷飚](https://bot5.club/people/github_username) | [AI + AR + Chatbot = ？](https://www.bot5.club/talks/TBD) | December 2019 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [舒畅](https://bot5.club/people/github_username) | [Chatbot行业创业赛道扫描](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [朱跃峰](https://bot5.club/people/github_username) | [教育培训行业的Chatbot应用探索](https://www.bot5.club/talks/TBD) | Late December 2019 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [丁煜恒](https://bot5.club/people/github_username) | [Conversation as a Platform](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [欧阳鑫](https://bot5.club/people/github_username) | [BERT Chatbot实践及硬件加速](https://www.bot5.club/talks/TBD) | Mid November 2019 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [金秋远](https://bot5.club/people/github_username) | [对话机器人在非任务型场景的赛道扫描和国际对比](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [陈远强](https://bot5.club/people/github_username) | [Chatbot中关于反欺诈的应用](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [金庸](https://bot5.club/people/github_username) | [Chatbot和公众号结合代运营](https://www.bot5.club/talks/TBD) | TBD |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [郑譞](https://bot5.club/people/github_username) | [聊天机器人和自然语言的标注](https://www.bot5.club/talks/TBD) | Early November 2019 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李晶莹](https://bot5.club/people/github_username) | [聊天机器人聊论语](https://www.bot5.club/talks/TBD) | TBD |
