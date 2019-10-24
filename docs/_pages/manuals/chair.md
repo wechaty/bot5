@@ -71,9 +71,13 @@ Additional Notes: put additional information here (if any).
 ### Before
 
 1. 监督上任轮值主席，在上次活动后48小时内，发出上次活动纪要
-1. 在上任轮值主席活动纪要发布之后的24小时之内，以回复的行使发布[Vice Chair Supervisor Report](/manuals/chair/#vice-chair-supervisor-report)
-1. 在本次活动开始时间48小时之前，根据上次活动纪要，以及纪要的回复（PR）情况，按照 Issue Template ，撰写本次沙龙活动通知，并发布
-1. 负责审核（Approve，或者 Request Modification）活动相关 PR，并 Merge 合格的本次活动相关的 Pull Requests, **注：PR可能会存在多条commit，所以在合并PR的时候，尽可能的选择`Squash and merge`**
+1. 在上任轮值主席活动纪要发布之后的24小时之内，以回复的形式发布[Vice Chair Supervisor Report](/manuals/chair/#vice-chair-supervisor-report)
+1. 根据已有 [Talks](https://www.bot5.club/talks/) 的情况，邀请已登记但未分享的成员或其他成员来做活动分享，确定本周分享内容
+1. 监督决定分享的成员，在活动开始时间24小时前发出分享内容的 Blog（发布[教程](https://www.bot5.club/manuals/blog/)），并同步更新 [Talks](https://www.bot5.club/talks/) 页面，在该页面的 `Queue` 部分更新好自己的分享主题和 Blog 链接
+1. 确认会议地点，如主席自己没有地点，可以咨询上届主席或主办方（句子互动）
+1. 确认会前是否有小吃赞助，并最终沟通落实小吃赞助的采买
+1. 在本次活动开始时间48小时之前，在活动群内发布通知
+1. 负责审核（Approve，或者 Request Modification）[活动相关 Pull Requests](https://github.com/wechaty/bot5.club/pulls)（以下简称PR），并 Merge 合格的本次活动相关的 PR, **注：PR 可能会存在多条commit，所以在合并PR的时候，尽可能的选择`Squash and merge`**
 1. 如果轮值主席因故无法履行本次轮值主席职责，需要在不晚于活动开始前48小时，授权轮值副主席为本次轮值主席，行使本次活动职责
 1. 提前到场准备好金蛋银蛋，并启动会议相关设备
 
