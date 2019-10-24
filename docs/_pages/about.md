@@ -9,7 +9,7 @@ Our members are coming from:
 
 1. Developers
 1. Entrepreneurs
-1. Gaint company product managers
+1. Giant company product managers
 
 The topic is all about:
 
