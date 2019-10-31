@@ -244,3 +244,18 @@ limeng:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/limingth"
 
+crownpku:
+  name: "王冠"
+  bio: "Data Scientist at Swiss Re, Google ML GDE."
+  avatar: "https://avatars3.githubusercontent.com/u/2224389?s=460&v=4"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/crownpku"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/crownpku/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.crownpku.com/"
