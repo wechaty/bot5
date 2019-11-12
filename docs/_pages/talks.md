@@ -58,3 +58,4 @@ Talks from our BOT5 members.
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [郑譞](https://bot5.club/people/github_username) | [聊天机器人和自然语言的标注](https://www.bot5.club/talks/TBD) | Early November 2019 |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李晶莹](https://bot5.club/people/github_username) | [聊天机器人聊论语](https://www.bot5.club/talks/TBD) | TBD |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [王冠](https://bot5.club/people/crownpku) | [Chatstack：搭建中文NLU的全流程用户交互系统](https://www.bot5.club/talks/TBD) | Late November 2019 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [吴际](https://bot5.club/people/github_username) | [在线教育微信社群管理的实践和构想 by 轻课](https://www.bot5.club/talks/TBD) | Mid November 2019 |
