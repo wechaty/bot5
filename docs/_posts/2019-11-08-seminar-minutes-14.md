@@ -30,6 +30,7 @@ header:
 1. [李佳芮](/people/lijiarui/)，句子互动创始人CEO。
 1. 朱竣峰 ，厦门联络易创始人
 1. 高原，句子互动联合创始人CTO。
+1. Frank Zhao，前阿里，ChatBot爱好者。
 
 ## Talks
 
