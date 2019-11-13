@@ -40,7 +40,7 @@ header:
 
 介绍了ChatBot 2B市场分析和展望 。分析了核心用户需求，用户痛点和难点，生态发展现状，2B各行业用户需求等。翔实专业，并给出了方向性建议。 ppt暂不能对外公开。
 
-### 2 福布斯AI 50 NLP相关公司分析 
+### 2 福布斯AI 50 NLP相关公司分析
 
 ![郭成凯]({{ '/assets/2019/seminar-14/talk2.jpg' | relative_url }})
 
@@ -78,15 +78,11 @@ header:
 
 介绍了Knative和Camel-K，教学和demo了云服务集成。
 
-
-
 ## 活动纪要
 
 ### 改进建议
 
-
 ### 脑洞
-
 
 ## 轮值主席任命仪式
 
@@ -106,7 +102,6 @@ header:
 ![合照]({{ '/assets/2019/seminar-14/group.jpg' | relative_url }})
 
 ## After Party 🍻
-
 
 -----
 
