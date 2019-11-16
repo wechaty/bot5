@@ -30,11 +30,11 @@ header:
 1. 张宁：微信NLP算法团队前端工程师
 1. 李娜：微信NLP算法团队工程师
 1. 张金超：微信NLP算法团队工程师
-1. [段清华](/people/qhduan)
+1. [段清华](/people/qhduan)：金证优智技术总监
 1. [李卓桓](/people/huan/)：PreAngel合伙人
 1. 杨理想：南京摄星智能创始人，NLP爱好者
 1. 郑譞：伽利略资本董事总经理
-1. [高原](/people/windmemory):句子互动CTO
+1. [高原](/people/windmemory)：句子互动CTO
 1. [李佳芮](/people/lijiarui/)：句子互动创始人
 1. 郭成凯：前小米深度学习组算法专家
 1. [朱跃峰](/people/jeffzhu76)：厦门联络易创始人
