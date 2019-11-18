@@ -116,7 +116,7 @@ header:
     overflow:hidden;
 ">
   <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-15/tbd.pdf' | relative_url }}'
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-15/openai-weixin.pdf' | relative_url }}'
     width='560'
     height='315'
     allowfullscreen
@@ -185,6 +185,8 @@ header:
 ## After Party 🍻
 
 ![After Party]({{ '/assets/2019/seminar-15/after-party.jpg' | relative_url }})
+
+After Party 上，大家达成一致，bot5 将会举办 ski bot5，在2019年的雪季，把bot5 club将会到崇礼举办一次ski bot活动，畅聊chatbot后，在崇礼滑雪+温泉！@朱峻峰 回来组织我们的 ski bot5 活动！
 
 -----
 
