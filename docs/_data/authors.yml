@@ -259,3 +259,13 @@ crownpku:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://www.crownpku.com/"
+
+burgerli:
+  name: "李博"
+  bio: "微信智能对话平台产品经理"
+  avatar: "https://avatars3.githubusercontent.com/u/55536823?s=400&v=4"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/burgerli"
