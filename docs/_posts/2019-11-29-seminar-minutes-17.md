@@ -66,6 +66,32 @@ header:
 
 ![李乾]({{ '/assets/2019/seminar-17/qianLi.jpg' | relative_url }})
 
+幻灯片：
+
+<div class="video-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-17/bot200.pdf' | relative_url }}'
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
+
 ## 活动纪要
 
 ### 脑洞
@@ -79,12 +105,12 @@ header:
 
 ### 改进建议
 
-- 郭成凯：活动内容公布的太晚了。
-- 李乾：不要两次会议在一个地方
+- 郭成凯：活动内容公布的太晚了；
+- 李乾：不要两次会议在一个地方；
 - 王磊：新人做主席，需要一个简短的培训；
-- 高原：；
-- 段清华：；
-- 李卓桓：主席一定要下次早到，主持流程没有按照文档走；
+- 高原：可以在wechaty的技术社区招募参与者，但要符合招募流程，比如主席要做介绍人；
+- 段清华：主持流程没有按照文档走；
+- 李卓桓：主席一定要下次早到；
 
 ## 轮值主席任命仪式
 
