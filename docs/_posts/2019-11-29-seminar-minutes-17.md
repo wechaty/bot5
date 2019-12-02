@@ -62,7 +62,7 @@ header:
   ></iframe>
 </div>
 
-### 2 关于wechaty社区公开征集100个对话机器人的提案
+### 2 中国首届Chatbot全民开发大赛
 
 ![李乾]({{ '/assets/2019/seminar-17/qianLi.jpg' | relative_url }})
 
