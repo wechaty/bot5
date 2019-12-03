@@ -20,6 +20,7 @@ header:
 ![events]({{ '/assets/2019/social-events/process.jpg' | relative_url }})
 
 机器人做的事情，都是流程类的事情，并没有用到NLP这样高大上的技术，就是：
+
 1. 建群，删群
 1. 自动生产二维码并保存
 1. 自动客服，同意加好友，并邀请进入活动群

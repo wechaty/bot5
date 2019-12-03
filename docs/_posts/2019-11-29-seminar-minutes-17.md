@@ -132,6 +132,7 @@ header:
 ## After Party 🍻
 
 ![After Party]({{ '/assets/2019/seminar-17/after-party.jpg' | relative_url }})
+
 Bot5的几位会员继续参加After Party，继续畅聊chatbot相关问题
 
 -----
