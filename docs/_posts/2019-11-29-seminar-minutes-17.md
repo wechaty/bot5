@@ -16,7 +16,7 @@ header:
 - 地点：PNP
 - 轮值主席：
     1. Chair: 王磊
-    1. Vice-Chair: 段清华
+    1. Vice-Chair: 尹伯昊
 - 赞助方：李佳芮
 
 ![attendees]({{ '/assets/2019/seminar-17/group.jpg' | relative_url }})
