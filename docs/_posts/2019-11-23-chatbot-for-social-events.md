@@ -17,7 +17,7 @@ header:
 
 我曾研究过微信客户端的协议，想自己开放，但后来预估了一下工作量，就放弃了。之后在网上寻找技术方案，找到了wechat4u和wechaty，最后很荣幸，成为了wechaty的测试用户。我用了1周多的时间，基于wechaty框架开发了我社区的第一个客服机器人，虽然也踩了几个坑，但最后wechaty框架机会完美解决了我的问题，比如群管理，群内公告，二维码生成等问题。非常感谢wechaty，真的为我这样的有技术背景的社区组织者带来了福音。我分享一个通过机器人协助活动组织的流程，如下图：
 
-![events](/docs/assets/2019/social-events/process.jpg)
+![events]({{ '/assets/2019/social-events/process.jpg' | relative_url }})
 
 机器人做的事情，都是流程类的事情，并没有用到NLP这样高大上的技术，就是：
 1. 建群，删群
