@@ -18,6 +18,7 @@ Talks from our BOT5 members.
 
 | Seminar | Member | Topic |
 | ------- | ------ | ----- |
+| [S1E15](https://blog.chatie.io/bot5-seminar-minutes-0/) | [王磊](https://bot5.club/people/alex) | [Chatbot在线下社区活动中的应用](https://www.bot5.club/talks/chatbot-for-social-events/) | Mid November 2019 |
 | [S1E15](https://bot5.club/events/seminar-minutes-15/) | [吴际](https://github.com/wuji1mol) | [在线教育微信社群管理的实践和构想 by 轻课](https://www.bot5.club/talks/TBD) | Mid November 2019 |
 | [S1E11](https://bot5.club/events/seminar-minutes-11/) | [段清华](https://bot5.club/people/qhduan) | 打造一个超越 rasa 的chatbot平台 —— deepdialog.ai |
 | [S1E10](https://bot5.club/events/seminar-minutes-10/) | [彭骏](https://bot5.club/people/github_username) | 如何从0打造7代李白 |
