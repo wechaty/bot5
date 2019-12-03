@@ -64,7 +64,7 @@ header:
 
 ### 2 中国首届Chatbot全民开发大赛
 
-![李乾]({{ '/assets/2019/seminar-17/qianli.jpg' | relative_url }})
+![李乾]({{ '/assets/2019/seminar-17/qianlis.jpg' | relative_url }})
 
 幻灯片：
 
