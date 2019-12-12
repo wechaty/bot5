@@ -8,7 +8,7 @@ header:
   teaser: /assets/2019/seminar-18/group.jpg
 ---
 
-<< Bot5 第十七次活动纪要: [Bot5 Episode 177](https://bot5.club/events/seminar-minutes-17) <<
+<< Bot5 第十七次活动纪要: [Bot5 Episode 17](https://bot5.club/events/seminar-minutes-17) <<
 
 ## Bot Friday Episode 18
 
