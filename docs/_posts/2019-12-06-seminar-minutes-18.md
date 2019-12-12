@@ -35,106 +35,60 @@ header:
 
 ## Talks
 
-### 1 一次敏捷开发
+### 1 投资机构的Chatbot开发实验
 
-![段清华]({{ '/assets/2019/seminar-17/qhduan.jpg' | relative_url }})
+![尹伯昊]({{ '/assets/2019/seminar-18/bohao.jpg' | relative_url }})
 
-幻灯片：
 
-<div class="video-container" style="
-    position: relative;
-    padding-bottom:56.25%;
-    padding-top:30px;
-    height:0;
-    overflow:hidden;
-">
-  <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-17/bot100.pdf' | relative_url }}'
-    width='560'
-    height='315'
-    allowfullscreen
-    webkitallowfullscreen
-    frameborder="0"
-    style="
-      position: absolute;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-    "
-  ></iframe>
-</div>
+### 2 人工智能投资小感悟
 
-### 2 中国首届Chatbot全民开发大赛
+![郑譞]({{ '/assets/2019/seminar-18/zhengxuan.jpg' | relative_url }})
 
-![李乾]({{ '/assets/2019/seminar-17/qianlis.jpg' | relative_url }})
-
-幻灯片：
-
-<div class="video-container" style="
-    position: relative;
-    padding-bottom:56.25%;
-    padding-top:30px;
-    height:0;
-    overflow:hidden;
-">
-  <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-17/bot200.pdf' | relative_url }}'
-    width='560'
-    height='315'
-    allowfullscreen
-    webkitallowfullscreen
-    frameborder="0"
-    style="
-      position: absolute;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-    "
-  ></iframe>
-</div>
 
 ## 活动纪要
 
 ### 脑洞
 
-- 郭成凯：利用网盘树的组织形式管理对话机器人的知识库，并可以基于模块重组；
-- 李乾：带有聊天机器人功能的输入法；
-- 王磊：参考李卓桓的意见，基于清华讲的alice机器人, 设计一个练习英语对话的机器人；
-- 高原：有一个想做机器人的宏大脑洞，只是一时不知道如何表达；
-- 段清华：设计一种对话机器人DSL，介于代码与GUI操作之间，用类自然语言编写对话机器人；
-- 李卓桓：把清华的想法做出一个开源项目，设计一种开发对话机器人的DSL，可以转换到不同的语言，比如RSE和bot framework；
+- 段清华：做一个无状态的、私密的、不需要备份的，用pipline去连接多个应用
+- 李卓桓：BotFriday很多需要被自动化的工作，可以由句子互动赞助微信号来做
+- 李佳芮：用两个微信群来训练机器人，一个训练群，一个监测群
+- 郑譞：投资是看到一个点兴奋起来，然后去找合适的公司
+- 汪兆飞：基于微信生态来协同办公，做的事情都放在微信的一个space里面
+- 王超然：如何实现微信基础上的Bot和定制化需求是很好的方向
+- Jessie：用wiki+图谱可视化呈现创业项目
+- 尹伯昊：基于Chatbot和微信的耦合可以帮助投资机构更好工作
 
 ### 改进建议
 
-- 郭成凯：活动内容公布的太晚了；
-- 李乾：不要两次会议在一个地方；
-- 王磊：新人做主席，需要一个简短的培训；
-- 高原：可以在wechaty的技术社区招募参与者，但要符合招募流程，比如主席要做介绍人；
-- 段清华：主持流程没有按照文档走；
-- 李卓桓：主席一定要下次早到；
+- 段清华：之后可以换更多的地方
+- 李卓桓：主席的传承，上任没有传承好，下一任要培养好
+- 李佳芮：下次要提前买水
+- 郑譞：活动规模可以再大一点
+- 汪兆飞：之后可以换更多的地方
+- 王超然：可以提前设计讨论的话题
+- Jessie：自己不应该迟到
+- 尹伯昊：可以食物再温和一点
 
 ## 轮值主席任命仪式
 
-1. 下任轮值主席：尹伯昊
-2. 下任轮值副主席：李乾
+1. 下任轮值主席：李乾
+2. 下任轮值副主席：郑譞
 
-![轮值主席任命仪式]({{ '/assets/2019/seminar-17/chairs.jpg' | relative_url }})
+![轮值主席任命仪式]({{ '/assets/2019/seminar-18/chairs.jpg' | relative_url }})
 
 ## 下次活动信息
 
-1. 时间：12月6日（周五） 19:00 - 21:00
-1. 主席：尹伯昊
-1. 副主席：李乾
+1. 时间：12月13日（周五） 19:00 - 21:00
+1. 主席：李乾
+1. 副主席：郑譞
 
 ## 集体合影
 
-![合照]({{ '/assets/2019/seminar-17/group.jpg' | relative_url }})
+![合照]({{ '/assets/2019/seminar-18/group.jpg' | relative_url }})
 
 ## After Party 🍻
 
-![After Party]({{ '/assets/2019/seminar-17/after-party.jpg' | relative_url }})
+![After Party]({{ '/assets/2019/seminar-18/after-party.jpg' | relative_url }})
 
 Bot5的几位会员继续参加After Party，继续畅聊chatbot相关问题
 
@@ -144,7 +98,7 @@ Bot5的几位会员继续参加After Party，继续畅聊chatbot相关问题
 
 1. 场地赞助方：句子互动
 2. 晚餐赞助方：句子互动
-3. 演讲嘉宾：段清华、李乾
+3. 演讲嘉宾：尹伯昊、郑譞
 
 RSVP:
 
