@@ -24,15 +24,18 @@ header:
 ## Attendees
 
 1. [段清华](/people/qhduan)：金证优智技术总监
-1. 王磊：后英语时代创始人,十年工程技术经验
-1. 郭成凯：前小米深度学习组算法专家
-1. 李乾：句子互动运营总监
-1. [李卓桓](/people/huan/)：PreAngel合伙人
-1. [高原](/people/windmemory)：句子互动CTO
+2. [李卓桓](/people/huan/)：PreAngel合伙人
+3. [李佳芮](/people/lijiarui)：句子互动CEO
+4. 郑譞：伽利略资本董事总经理
+5. 白弢：茹来智能中国公司创始人
+6. 汪兆飞：松果文档创始人
+7. 王超然：创业邦投资经理
+8. Jessie：新加坡管理大学创业创新研究院中国区顾问
+9. 尹伯昊：奇绩创坛（原YC中国）实习生
 
 ## Talks
 
-### 1 对话机器人的几种实现方式
+### 1 一次敏捷开发
 
 ![段清华]({{ '/assets/2019/seminar-17/qhduan.jpg' | relative_url }})
 
