@@ -79,6 +79,7 @@ Additional Notes: put additional information here (if any).
 1. 在本次活动开始时间48小时之前，在活动群内发布通知
 1. 负责审核（Approve，或者 Request Modification）[活动相关 Pull Requests](https://github.com/wechaty/bot5.club/pulls)（以下简称PR），并 Merge 合格的本次活动相关的 PR, **注：PR 可能会存在多条commit，所以在合并PR的时候，尽可能的选择`Squash and merge`**
 1. 如果轮值主席因故无法履行本次轮值主席职责，需要在不晚于活动开始前48小时，授权轮值副主席为本次轮值主席，行使本次活动职责
+1. 确认本次活动场地。尽量避免连续两次使用统一场地，绝对不能连续三次使用同一场地。
 1. 提前到场准备好金蛋银蛋，并启动会议相关设备
 1. 主席可以根据情况，选择将活动内容分享至 Wechaty Developer's Home 群中，以召集更多的新鲜血液来参加活动，在召集过程中要注意以下几点：
     1. 主席自己作为所有新人的邀请人，邀请新人加入 Bot Friday 的活动
