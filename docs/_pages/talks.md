@@ -18,8 +18,9 @@ Talks from our BOT5 members.
 
 | Seminar | Member | Topic |
 | ------- | ------ | ----- |
-| [S1E15](https://blog.chatie.io/bot5-seminar-minutes-0/) | [王磊](https://bot5.club/people/alex) | [Chatbot在线下社区活动中的应用](https://www.bot5.club/talks/chatbot-for-social-events/) | Mid November 2019 |
-| [S1E15](https://bot5.club/events/seminar-minutes-15/) | [吴际](https://github.com/wuji1mol) | [在线教育微信社群管理的实践和构想 by 轻课](https://www.bot5.club/talks/TBD) | Mid November 2019 |
+| [S1E20](https://bot5.club/events/seminar-minutes-20/) | [张璐](https://bot5.club/people/github_username) | 生成式闲聊机器人的自动评价方法 |
+| [S1E15](https://blog.chatie.io/bot5-seminar-minutes-0/) | [王磊](https://bot5.club/people/alex) | [Chatbot在线下社区活动中的应用](https://www.bot5.club/talks/chatbot-for-social-events/) |
+| [S1E15](https://bot5.club/events/seminar-minutes-15/) | [吴际](https://github.com/wuji1mol) | [在线教育微信社群管理的实践和构想 by 轻课](https://www.bot5.club/talks/TBD) |
 | [S1E11](https://bot5.club/events/seminar-minutes-11/) | [段清华](https://bot5.club/people/qhduan) | 打造一个超越 rasa 的chatbot平台 —— deepdialog.ai |
 | [S1E10](https://bot5.club/events/seminar-minutes-10/) | [彭骏](https://bot5.club/people/github_username) | 如何从0打造7代李白 |
 | [S1E9](https://bot5.club/events/seminar-minutes-9/) | [张程](https://bot5.club/people/github_username) | 如何评价Chatbot交互过程中的主观评估指标 |
