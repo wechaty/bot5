@@ -122,7 +122,7 @@ Additional Notes: put additional information here (if any).
         1. 副主席负责：银色 for Soft Limit (Oral/Poster 30/10 mins)
 1. 会员升级
     1. 新人 -> 实习会员：第一次完成分享的新人，将升级为实习会员。由其邀请人负责将其加入 _“Bot Friday Club - BOT5”_ 会员群。（如果邀请人不在，则由当期主席负责）；
-    1. 实习会员 -> 正式会员：参加了三次活动的实习会员（含三次），将有资格转为正式会员。转正要求：发送个人 Profile 页面的 Pull Request 至 https://bot5.club/people/GITHUB_USERNAME/ 下。PR Merge 后正式成为 BOT5 会员；
+    1. 实习会员 -> 正式会员：参加了三次活动的实习会员（含三次），将有资格转为正式会员。转正要求：发送个人 Profile 页面的 Pull Request 至 <https://bot5.club/people/GITHUB_USERNAME/> 下。PR Merge 后正式成为 BOT5 会员；
     1. 正式会员 -> 实习主席：正式会员可以被提名成为主席候选人。主席候选人被选举成功之后，成为实习主席；
     1. 实习主席 -> 主席：将完成了第一次轮值主席工作的实习主席，加入 Github Team: chairs，并在 team 中授予 maintainer 权限，便于未来升级其他主席。
 1. 脑洞拓展：
