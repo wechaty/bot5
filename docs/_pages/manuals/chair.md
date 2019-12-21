@@ -74,7 +74,19 @@ Additional Notes: put additional information here (if any).
 1. 在上任轮值主席活动纪要发布之后的24小时之内，以回复的形式发布[Vice Chair Supervisor Report](/manuals/chair/#vice-chair-supervisor-report)
 1. 根据已有 [Talks](https://www.bot5.club/talks/) 的情况，邀请已登记但未分享的成员或其他成员来做活动分享，确定本周分享内容
 1. 监督决定分享的成员，在活动开始时间24小时前发出分享内容的 Blog（发布[教程](https://www.bot5.club/manuals/blog/)），并同步更新 [Talks](https://www.bot5.club/talks/) 页面，在该页面的 `Queue` 部分更新好自己的分享主题和 Blog 链接
-1. 确认会议地点，如主席自己没有地点，可以咨询上届主席或主办方（句子互动）
+1. 确认会议地点，如主席自己没有地点，可以咨询上届主席或联系一下场地负责人：
+    1. 腾讯办公室
+        - 地址：中关村，第三极大厦、理想国际大厦
+        - 联系人：[李卓桓](https://www.bot5.club/people/huan)
+    1. 微软亚太研发集团大厦(微软总部)
+        - 地址：中关村，丹棱街5号
+        - 联系人：[李佳芮](https://www.bot5.club/people/huan/)
+    1. Plug and Play China 孵化器
+        - 地址：五道口，智造大街G座
+        - 联系人：[李乾](https://www.bot5.club/people/)
+    1. WeWork 协作办公空间
+        - 地址：中关村，互联网金融中心
+        - 联系人：[尹伯昊](https://www.bot5.club/people/)
 1. 确认会前是否有小吃赞助，并最终沟通落实小吃赞助的采买
 1. 在本次活动开始时间48小时之前，在活动群内发布通知
 1. 负责审核（Approve，或者 Request Modification）[活动相关 Pull Requests](https://github.com/wechaty/bot5.club/pulls)（以下简称PR），并 Merge 合格的本次活动相关的 PR, **注：PR 可能会存在多条commit，所以在合并PR的时候，尽可能的选择`Squash and merge`**
