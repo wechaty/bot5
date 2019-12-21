@@ -83,7 +83,7 @@ Additional Notes: put additional information here (if any).
         - 联系人：[李佳芮](https://www.bot5.club/people/huan/)
     1. Plug and Play China 孵化器
         - 地址：五道口，智造大街G座
-        - 联系人：[李乾](https://www.bot5.club/people/)
+        - 联系人：[高原](https://www.bot5.club/people/windmemory/)
     1. WeWork 协作办公空间
         - 地址：中关村，互联网金融中心
         - 联系人：[尹伯昊](https://www.bot5.club/people/)
