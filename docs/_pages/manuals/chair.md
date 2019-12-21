@@ -72,9 +72,10 @@ Additional Notes: put additional information here (if any).
 
 1. 监督上任轮值主席，在上次活动后48小时内，发出上次活动纪要
 1. 在上任轮值主席活动纪要发布之后的24小时之内，以回复的形式发布[Vice Chair Supervisor Report](/manuals/chair/#vice-chair-supervisor-report)
-1. 根据已有 [Talks](https://www.bot5.club/talks/) 的情况，邀请已登记但未分享的成员或其他成员来做活动分享，确定本周分享内容
-1. 监督决定分享的成员，在活动开始时间24小时前发出分享内容的 Blog（发布[教程](https://www.bot5.club/manuals/blog/)），并同步更新 [Talks](https://www.bot5.club/talks/) 页面，在该页面的 `Queue` 部分更新好自己的分享主题和 Blog 链接
-1. 确认会议地点，如主席自己没有地点，可以咨询上届主席或联系一下场地负责人：
+1. 确定活动分享人，以及分享主题：
+    1. 根据已有 [Talks](https://www.bot5.club/talks/) 的情况，邀请已登记但未分享的成员或其他成员来做活动分享，确定本周分享内容
+    1. Speaker 确认方法：会员本人将自我介绍、本次自己分享的主题、大纲，回复在上一次活动纪要的评论中
+1. 确认本次活动场地。尽量避免连续两次使用统一场地，绝对不能连续三次使用同一场地。如主席自己没有地点，可以咨询上届主席或联系以下场地负责人：
     1. 腾讯办公室
         - 地址：中关村，第三极大厦、理想国际大厦
         - 联系人：[李卓桓](https://www.bot5.club/people/huan)
@@ -89,11 +90,11 @@ Additional Notes: put additional information here (if any).
         - 联系人：[尹伯昊](https://www.bot5.club/people/)
 1. 确认会前是否有小吃赞助，并最终沟通落实小吃赞助的采买
 1. 在本次活动开始时间48小时之前，在活动群内发布通知
+1. （可选）决定分享的会员，在活动开始时间24小时前发出分享内容的 Blog（发布[教程](https://www.bot5.club/manuals/blog/)），并同步更新 [Talks](https://www.bot5.club/talks/) 页面，在该页面的 `Queue` 部分更新好自己的分享主题和 Blog 链接
 1. 负责审核（Approve，或者 Request Modification）[活动相关 Pull Requests](https://github.com/wechaty/bot5.club/pulls)（以下简称PR），并 Merge 合格的本次活动相关的 PR, **注：PR 可能会存在多条commit，所以在合并PR的时候，尽可能的选择`Squash and merge`**
 1. 如果轮值主席因故无法履行本次轮值主席职责，需要在不晚于活动开始前48小时，授权轮值副主席为本次轮值主席，行使本次活动职责
-1. 确认本次活动场地。尽量避免连续两次使用统一场地，绝对不能连续三次使用同一场地。
 1. 提前到场准备好金蛋银蛋，并启动会议相关设备
-1. 主席可以根据情况，选择将活动内容分享至 Wechaty Developer's Home 群中，以召集更多的新鲜血液来参加活动，在召集过程中要注意以下几点：
+1. 主席可以根据情况，选择将活动内容分享至可能有潜在适合成为 BOT5 会员的人群中，以召集更多的新鲜血液来参加活动，在召集过程中要注意以下几点：
     1. 主席自己作为所有新人的邀请人，邀请新人加入 Bot Friday 的活动
     1. 主席需要尽到邀请人的职责，确保新人完整阅读了[新人手册](https://www.bot5.club/manuals/newcomer/)并在上一次的活动纪要下报名参加活动
     1. 主席需要控制活动的人数，保证每场活动人数不会超过15个人
