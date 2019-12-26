@@ -269,3 +269,13 @@ burgerli:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/burgerli"
+      
+zhengxuanr:
+  name: "郑譞"
+  bio: "伽利略资本-董事总经理，喜欢发呆的早期投资人:)"
+  avatar: "https://avatars0.githubusercontent.com/u/20353290?s=460&amp;v=4"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zhengxuanr"
