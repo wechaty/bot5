@@ -38,9 +38,10 @@ BOT5 随时欢迎新朋友加入，前提是需要你：
     1. 推荐人
     1. 分享内容（如果有）
 1. 如果沙龙活动人数过多，主席有权限将总人数限制在主席认为的合理范围之内。新人有可能会被拒绝参加活动。
+1. 新人参加过一次 BOT5 活动后，如果想第二次参加，需要确定自己的活动分享主题。详情可以参考 [Pull Request Manual](https://www.bot5.club/manuals/pull-request/) ，如有任何疑问，可以咨询自己的邀请人（邀请人也是成为会员后新人的 Mentor）
 
 ## 新人转为会员的方法
 
-1. 报名分享的人，可以转正为正式会员。
+1. 报名分享的人，可以转正为正式会员。
 1. 报名成功的标准为： 通过过 Github 以 Pull Request 的形式提交到[沙龙报名登记](https://github.com/wechaty/bot5.club/blob/master/docs/_pages/talks.md)，完成合并之后，即可正式成为 BOT Friday Club 的会员。
-1. Mentor帮助新会员加入 Bot Friday Club - BOT5 微信群中。
+1. 分享完成后，由 Mentor 负责帮助新会员加入 Bot Friday Club - BOT5 会员微信群中。
