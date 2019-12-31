@@ -18,6 +18,7 @@ Talks from our BOT5 members.
 
 | Seminar | Member | Topic |
 | ------- | ------ | ----- |
+| [S1E21](https://bot5.club/events/seminar-minutes-21/) | [张璐](https://bot5.club/people/github_username) | 生成式闲聊机器人的自动评价方法 |
 | [S1E15](https://blog.chatie.io/bot5-seminar-minutes-0/) | [王磊](https://bot5.club/people/alex) | [Chatbot在线下社区活动中的应用](https://www.bot5.club/talks/chatbot-for-social-events/) |
 | [S1E15](https://bot5.club/events/seminar-minutes-15/) | [吴际](https://github.com/wuji1mol) | [在线教育微信社群管理的实践和构想 by 轻课](https://www.bot5.club/talks/TBD) |
 | [S1E11](https://bot5.club/events/seminar-minutes-11/) | [段清华](https://bot5.club/people/qhduan) | 打造一个超越 rasa 的chatbot平台 —— deepdialog.ai |
@@ -60,4 +61,3 @@ Talks from our BOT5 members.
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [郑譞](https://bot5.club/people/github_username) | [聊天机器人和自然语言的标注](https://www.bot5.club/talks/TBD) | Early November 2019 |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李晶莹](https://bot5.club/people/github_username) | [聊天机器人聊论语](https://www.bot5.club/talks/TBD) | TBD |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [王冠](https://bot5.club/people/crownpku) | [Chatstack：搭建中文NLU的全流程用户交互系统](https://www.bot5.club/talks/TBD) | Late November 2019 |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [张璐](https://bot5.club/people/github_username) | [生成式闲聊机器人的自动评价方法](https://www.bot5.club/talks/TBD) | TBD |
