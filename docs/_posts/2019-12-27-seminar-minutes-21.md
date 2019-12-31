@@ -25,7 +25,6 @@ header:
 
 1. [李卓桓](/people/huan/)：PreAngel合伙人
 2. [李佳芮](/people/lijiarui)：句子互动CEO
-3. [李佳芮](/people/lijiarui)：句子互动CEO
 4. 尹伯昊：奇绩创坛（原YC中国）实习生
 5. 齐一燃：奇绩创坛（原YC中国）实习生
 6. 李承霖：奇绩创坛（原YC中国）实习生
