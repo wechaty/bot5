@@ -1,6 +1,6 @@
 ---
 title: Bot Friday 第二十一次活动纪要
-author: 23LuZ
+author: XiaoDa
 categories: events
 tags:
   - minutes
