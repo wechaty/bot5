@@ -289,3 +289,19 @@ xiaoda99:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xiaoda99"
+
+caq:
+  name: "崔安颀"
+  bio: "薄言RSVP.ai联合创始人、AI负责人、北京分公司负责人。清华大学博士，研究方向为情感计算、统计数据挖掘、自然语言处理等。
+  avatar: "https://avatars1.githubusercontent.com/u/1644773?s=460&v=4"
+  membership: member
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/xiaoda99"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/anqi-cui-8965318"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:caq+bot5@caq9.info"
