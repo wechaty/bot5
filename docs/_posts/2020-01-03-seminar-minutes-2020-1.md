@@ -1,6 +1,6 @@
 ---
 title: Bot Friday 2020年第1次活动纪要
-author: CAQ
+author: caq
 categories: events
 tags:
   - minutes
