@@ -40,7 +40,7 @@ header:
 
 ![曹亚峥]({{ '/assets/2020/seminar-01/seminar-2020-01-talk-caoyazheng.jpg' | relative_url }})
 
-幻灯片（参见[紫豆助手](http://www.zidouchat.com/）：
+幻灯片（参见[紫豆助手](http://www.zidouchat.com/)）：
 
 <div class="video-container" style="
     position: relative;
