@@ -16,7 +16,7 @@ header:
 ## Bot Friday Season 2020 Episode 01
 
 - 时间：2020年1月3日（周五）19:00 - 22:00（3小时）
-- 地点：独到科技
+- 地点：[独到科技](https://www.doodod.com/)
 - 轮值主席：
     1. Chair: 崔安颀
     1. Vice-Chair: 张璐
@@ -40,7 +40,31 @@ header:
 
 ![曹亚峥]({{ '/assets/2020/seminar-01/seminar-2020-01-talk-caoyazheng.jpg' | relative_url }})
 
-幻灯片，参见紫豆助手：<http://www.zidouchat.com/>
+幻灯片（参见[紫豆助手](http://www.zidouchat.com/）：
+
+<div class="video-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src='{{ '/assets/js/viewer-js/#/assets/2020/seminar-01/seminar-2020-01-talk-caoyazheng-slides.pdf' | relative_url }}'
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
 
 ## 活动纪要
 
