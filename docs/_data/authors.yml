@@ -305,3 +305,13 @@ caq:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:caq+bot5@caq9.info"
+
+23LuZ:
+  name: "张璐"
+  bio: "北科研究生，研究方向为闲聊机器人及闲聊机器人的评价"
+  avatar: "https://avatars3.githubusercontent.com/u/44162178?s=460&v=4"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/23LuZ"
