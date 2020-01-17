@@ -2,6 +2,12 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/wechaty/bot5.club.svg)](https://greenkeeper.io/)
 
+## Voice of Members
+
+> "Bot Friday 是支撑我每周活下去的动力" [link](https://www.bot5.club/events/seminar-minutes-19/)  
+> &mdash; <cite>@尹伯昊, 奇迹创坛首席实习生</cite>
+>
+
 ## Bot Domain
 
 - [.BOT is an identity for bots.](https://www.amazonregistry.com/bot) - Currently, anyone who owns, operates or manages bots published using a supported tool (Amazon Lex, Botkit Studio, Dialogflow, Gupshup, Microsoft Bot Framework, and Pandorabots) can validate a bot and register a .BOT domain name.
