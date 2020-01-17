@@ -5,7 +5,7 @@
 ## Voice of Members
 
 > "Bot Friday 是支撑我每周活下去的动力" [link](https://www.bot5.club/events/seminar-minutes-19/)  
-> &mdash; <cite>@尹伯昊, [奇迹创坛](https://www.miracleplus.com/)首席实习生</cite>
+> &mdash; <cite>[@尹伯昊](https://github.com/rickyyin98), [奇迹创坛](https://www.miracleplus.com/)首席实习生</cite>
 >
 
 ## Bot Domain
