@@ -1,6 +1,6 @@
 # BOT Friday CLUB Website
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/wechaty/bot5.club.svg)](https://greenkeeper.io/)
+
 
 ## Voice of Members
 
