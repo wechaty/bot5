@@ -1,6 +1,6 @@
 # BOT Friday CLUB Website
 
-
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-brightgreen.svg)](https://github.com/Wechaty/wechaty)
 
 ## Voice of Members
 
