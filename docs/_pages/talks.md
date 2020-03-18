@@ -19,7 +19,6 @@ Talks from our BOT5 members.
 | Seminar | Member | Topic |
 | ------- | ------ | ----- |
 | S2E4| 林一凡| YC美国所投的早期人工智能创业公司在做什么？|
-
 | [S1E21](https://bot5.club/events/seminar-minutes-21/) | [张璐](https://bot5.club/people/github_username) | 生成式闲聊机器人的自动评价方法 |
 | [S1E15](https://blog.chatie.io/bot5-seminar-minutes-0/) | [王磊](https://bot5.club/people/alex) | [Chatbot在线下社区活动中的应用](https://www.bot5.club/talks/chatbot-for-social-events/) |
 | [S1E15](https://bot5.club/events/seminar-minutes-15/) | [吴际](https://github.com/wuji1mol) | [在线教育微信社群管理的实践和构想 by 轻课](https://www.bot5.club/talks/TBD) |
