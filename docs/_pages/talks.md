@@ -43,7 +43,6 @@ Talks from our BOT5 members.
 | [S1E2](https://blog.chatie.io/bot-friday-second/) | [邝伟鹏](https://bot5.club/people/creatorkuang) | [脸盲助手-基于微信社交的Chatbot人脸识别应用探索](https://www.bot5.club/talks/face-blinder/) |
 | [S1E1](https://blog.chatie.io/bot5-seminar-minutes-0/) | [段清华](https://bot5.club/people/qhduan) | [Rasa介绍：对话系统、产品与技术](https://blog.chatie.io/rasa/) |
 
-
 ## Queue
 
 | Seminar | Member | Topic | Schedule |
