@@ -18,6 +18,7 @@ Talks from our BOT5 members.
 
 | Seminar | Member | Topic |
 | ------- | ------ | ----- |
+| S2E4| 林一凡| YC美国所投的早期人工智能创业公司在做什么？|
 | [S1E21](https://bot5.club/events/seminar-minutes-21/) | [张璐](https://bot5.club/people/github_username) | 生成式闲聊机器人的自动评价方法 |
 | [S1E15](https://blog.chatie.io/bot5-seminar-minutes-0/) | [王磊](https://bot5.club/people/alex) | [Chatbot在线下社区活动中的应用](https://www.bot5.club/talks/chatbot-for-social-events/) |
 | [S1E15](https://bot5.club/events/seminar-minutes-15/) | [吴际](https://github.com/wuji1mol) | [在线教育微信社群管理的实践和构想 by 轻课](https://www.bot5.club/talks/TBD) |
@@ -41,6 +42,7 @@ Talks from our BOT5 members.
 | [S1E2](https://blog.chatie.io/bot-friday-second/) | [李明](https://bot5.club/people/limingth) | [The Bad Part of My Chatbot Experience](https://www.bot5.club/talks/maodou-bot-limingth/) |
 | [S1E2](https://blog.chatie.io/bot-friday-second/) | [邝伟鹏](https://bot5.club/people/creatorkuang) | [脸盲助手-基于微信社交的Chatbot人脸识别应用探索](https://www.bot5.club/talks/face-blinder/) |
 | [S1E1](https://blog.chatie.io/bot5-seminar-minutes-0/) | [段清华](https://bot5.club/people/qhduan) | [Rasa介绍：对话系统、产品与技术](https://blog.chatie.io/rasa/) |
+
 
 ## Queue
 
