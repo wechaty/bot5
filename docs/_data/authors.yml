@@ -315,3 +315,13 @@ caq:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/23LuZ"
+
+Xiaomei-Zhang:
+  name: "张晓梅"
+  bio: "伽信智能科技CTO"
+  avatar: "https://avatars2.githubusercontent.com/u/7217717"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Xiaomei-Zhang"
