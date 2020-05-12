@@ -18,6 +18,7 @@ Talks from our BOT5 members.
 
 | Seminar | Member | Topic |
 | ------- | ------ | ----- |
+| S2E5| 吕杰 | Chatbot在医疗健康领域的探索 |
 | S2E4| 林一凡 | YC美国所投的早期人工智能创业公司在做什么？|
 | S2E2| 李恺 | Chatbot在定制旅游公司中的应用 |
 | [S1E21](https://bot5.club/events/seminar-minutes-21/) | [张璐](https://bot5.club/people/github_username) | 生成式闲聊机器人的自动评价方法 |
