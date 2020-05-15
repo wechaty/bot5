@@ -325,3 +325,13 @@ Xiaomei-Zhang:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Xiaomei-Zhang"
+
+BrikerMan:
+  name: "Eliyar Eziz (艾力)"
+  bio: "AI Specialist, Google ML GDE. Love NLP, Love Python."
+  avatar: "https://avatars0.githubusercontent.com/u/9368907"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BrikerMan"
