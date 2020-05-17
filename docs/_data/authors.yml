@@ -335,3 +335,13 @@ BrikerMan:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BrikerMan"
+
+likai:
+  name: "likai (李恺)"
+  bio: "无二之旅研发总监，资深后端开发工程师"
+  avatar: "https://avatars0.githubusercontent.com/u/1356974"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tlikai"
