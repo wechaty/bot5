@@ -111,6 +111,7 @@ Additional Notes: put additional information here (if any).
 
 #### 2 沙龙流程
 
+1. ![QRCode start]({{ '/assets/images/start.png' | relative_url }})
 1. 最后一次活动回顾
 1. 新人流程
     1. 将新人邀请进入 _“Bot Friday Open Form - BFOF”_ 微信群。（邀请人负责邀请。如果邀请人不在现场则由主席一人负责）
@@ -142,6 +143,7 @@ Additional Notes: put additional information here (if any).
 1. 所有参会人员合影（原图经过脸盲助手发到会员群，并将带名字的照片，发布在活动纪要中）
 1. 活动结束，自由交流
 1. 轮值主席组织大家将场地复原（桌椅、白板、设备等）
+1. ![QRCode end]({{ '/assets/images/end.png' | relative_url }})
 
 #### 3 After Party (optional)
 
