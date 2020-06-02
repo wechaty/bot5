@@ -1,7 +1,9 @@
-#install ffmpeg first
-#sudo apt-get install libzbar0
-#pip install pyzbar opencv-python
-#python video_qrcode_cut.py -i test2.mp4 -o out.mp4
+#!/usr/bin/env python3
+
+# install ffmpeg first
+# sudo apt-get install libzbar0
+# pip3 install pyzbar opencv-python
+# python video_qrcode_cut.py -i test2.mp4 -o out.mp4
 
 import cv2
 from pyzbar import pyzbar
@@ -16,20 +18,20 @@ ap.add_argument("-i", "--input_mp4", required=True,help="Path to mp4 video to cu
 ap.add_argument("-o", "--output_mp4", required=True,help="Path to output")
 args = ap.parse_args()
 
-def convert(seconds): 
-    seconds = seconds % (24 * 3600) 
+def convert(seconds):
+    seconds = seconds % (24 * 3600)
     hour = seconds // 3600
     seconds %= 3600
     minutes = seconds // 60
     seconds %= 60
-      
-    return "%d:%02d:%02d" % (hour, minutes, seconds) 
+
+    return "%d:%02d:%02d" % (hour, minutes, seconds)
 
 
 # initalize the cam
 cap = cv2.VideoCapture(args.input_mp4)
 # Get the frames per second
-fps = cap.get(cv2.CAP_PROP_FPS) 
+fps = cap.get(cv2.CAP_PROP_FPS)
 
 # Get the total numer of frames in the video.
 frame_count = cap.get(cv2.CAP_PROP_FRAME_COUNT)
@@ -39,7 +41,7 @@ success=True
 start=-1
 end=-1
 while success and frame_number<=frame_count:
-    cap.set(cv2.CAP_PROP_POS_FRAMES, frame_number) 
+    cap.set(cv2.CAP_PROP_POS_FRAMES, frame_number)
     success, img = cap.read()
     print(frame_number)
     if img is None:
