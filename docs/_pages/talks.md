@@ -64,7 +64,7 @@ Talks from our BOT5 members.
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [郑譞](https://bot5.club/people/github_username) | [聊天机器人和自然语言的标注](https://www.bot5.club/talks/TBD) | Early November 2019 |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [李晶莹](https://bot5.club/people/github_username) | [聊天机器人聊论语](https://www.bot5.club/talks/TBD) | TBD |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [王冠](https://bot5.club/people/crownpku) | [Chatstack：搭建中文NLU的全流程用户交互系统](https://www.bot5.club/talks/TBD) | Late November 2019 |
-| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [马跃](https://bot5.club/people/github_username) | [DSTC8基于Schema的多领域对话状态追踪的实现和思考] | July 2020 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [马跃](https://bot5.club/people/github_username) | [DSTC8基于Schema的多领域对话状态追踪的实现和思考](https://www.bot5.club/talks/TBD) | July 2020 |
 
 ### 新人登记分享主题
 
