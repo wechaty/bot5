@@ -345,3 +345,13 @@ likai:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tlikai"
+
+chuangfengwang:
+  name: "王创峰"
+  bio: "致远星辰联合创始人, 算法工程师"
+  avatar: "https://avatars3.githubusercontent.com/u/24692397"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chuangfengwang"
