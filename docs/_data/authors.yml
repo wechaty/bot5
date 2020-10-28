@@ -346,6 +346,17 @@ likai:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tlikai"
 
+
+bibodeng:
+  name: "bibodeng(邓国东)"
+  bio: "IFTip数字资产机器人创始人"
+  avatar: "https://avatars2.githubusercontent.com/u/1180416"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bibodeng"
+
 chuangfengwang:
   name: "王创峰"
   bio: "致远星辰联合创始人, 算法工程师"
