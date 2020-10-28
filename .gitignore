@@ -6,3 +6,6 @@ Gemfile.lock
 node_modules
 package-lock.json
 .DS_Store
+
+# git merge temp file
+*.orig
