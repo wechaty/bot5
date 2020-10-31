@@ -366,3 +366,13 @@ chuangfengwang:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chuangfengwang"
+
+lvjie:
+  name: "吕杰"
+  bio: "人工智能方向产品经理"
+  avatar: "https://avatars0.githubusercontent.com/u/13212236"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ssssnail"
