@@ -376,3 +376,14 @@ lvjie:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ssssnail"
+
+
+zohinxa:
+  name: "赵欣"
+  bio: "AI产品经理"
+  avatar: "https://avatars2.githubusercontent.com/u/44439119"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zohinxa"
