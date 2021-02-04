@@ -67,6 +67,7 @@ Talks from our BOT5 members.
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [马跃](https://bot5.club/people/github_username) | [DSTC8基于Schema的多领域对话状态追踪的实现和思考](https://www.bot5.club/talks/TBD) | July 2020 |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [邓国东](https://bot5.club/people/github_username) | [Chatbot在区块链领域的应用](https://www.bot5.club/talks/TBD) | 17 July 2020 |
 | [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [吴显昆](https://bot5.club/people/github_username) | [GPT-3 API 的杂谈与实战分享](https://www.bot5.club/talks/TBD) | Early December 2020 |
+| [S?E?](https://bot5.club/events/seminar-minutes-?-?/) | [高宇](https://bot5.club/people/gaoyu) | [企业汽车金融机器人应用](https://www.bot5.club/talks/TBD) | 5 February 2021 |
 
 ### 新人登记分享主题
 
