@@ -37,10 +37,10 @@ header:
 ### 主题一: 访古踏青,登山徒步
 
 山下会盟
-![大部队1]]({{ '/assets/2021/activity-01/group-2.jpg' | relative_url }})
+![大部队1]({{ '/assets/2021/activity-01/group-2.jpg' | relative_url }})
 
 互联网人的佛家圣地-龙泉寺-山门
-![大部队1]]({{ '/assets/2021/activity-01/poi-2.jpg' | relative_url }})
+![龙泉寺-山门]({{ '/assets/2021/activity-01/poi-2.jpg' | relative_url }})
 
 龙泉寺里话因缘
 ![龙泉寺里话因缘]({{ '/assets/2021/activity-01/group-3.jpg' | relative_url }})
@@ -66,7 +66,7 @@ header:
 ### 主题二: 畅聊内外,交流心得
 
 卓桓请来了他妹妹🤭(开玩笑,见识下AI的威力)
-![卓桓请来了他妹妹]]({{ '/assets/2021/activity-01/poi-2.jpg' | relative_url }})
+![卓桓请来了他妹妹]({{ '/assets/2021/activity-01/poi-2.jpg' | relative_url }})
 
 在风景里相谈甚欢
 ![在风景里相谈甚欢]({{ '/assets/2021/activity-01/poi-4.jpg' | relative_url }})
@@ -87,6 +87,7 @@ PNP门前的花花呀
 ![PNP门前的花花呀]({{ '/assets/2021/activity-01/poi-40.jpg' | relative_url }})
 
 ### 卓桓赠送给大家一套精美的 wechaty 礼物
+![来自wechaty的礼物]({{ '/assets/2021/activity-01/wechaty.jpg' | relative_url }})
 
 ### 一分钟发言 one by one
 
