@@ -61,7 +61,7 @@ header:
 ![伟人胸襟]({{ '/assets/2021/activity-01/poi-8.jpg' | relative_url }})
 
 走在一线天里的美女,清爽宜人
-![一线天]({{ '/assets/2021/activity-01/poi-8.jpg' | relative_url }})
+![一线天]({{ '/assets/2021/activity-01/poi-11.jpg' | relative_url }})
 
 ### 主题二: 畅聊内外,交流心得
 
