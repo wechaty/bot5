@@ -1,4 +1,4 @@
-# BOT Friday CLUB Website
+# BOT Friday CLUB Website [![NPM](https://github.com/wechaty/bot5.ml/actions/workflows/npm.yml/badge.svg)](https://github.com/wechaty/bot5.ml/actions/workflows/npm.yml)
 
 [![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-brightgreen.svg)](https://github.com/Wechaty/wechaty)
 
