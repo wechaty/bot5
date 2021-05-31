@@ -87,6 +87,7 @@ PNP门前的花花呀
 ![PNP门前的花花呀]({{ '/assets/2021/activity-01/poi-40.jpg' | relative_url }})
 
 ### 卓桓赠送给大家一套精美的 wechaty 礼物
+
 ![来自wechaty的礼物]({{ '/assets/2021/activity-01/wechaty.jpg' | relative_url }})
 
 ### 一分钟发言 one by one
