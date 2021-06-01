@@ -118,7 +118,7 @@ tag_archive:
   path: /tags/
 
 
-repository: "wechaty/bot5.club" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "wechaty/bot5.ml" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   utterances:
