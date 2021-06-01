@@ -17,7 +17,7 @@ const isPR = require('is-pr')
 test.skip('pull request title', async t => {
   if (isPR) {
     const prNum = parseInt(process.env['TRAVIS_PULL_REQUEST'] as string)
-    const prTitle = await prNumberToTitle('bupt', 'ai-ml.club', prNum)
+    const prTitle = await prNumberToTitle('bupt', 'clubber.ml', prNum)
 
     if (prTitle.match(/(oral|poster)/i)) {
       // > 🗣Oral | 📰Poster - Paper Title
