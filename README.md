@@ -4,7 +4,7 @@
 
 ## Voice of Members
 
-> "Bot Friday 是支撑我每周活下去的动力" [link](https://www.bot5.club/events/seminar-minutes-19/)  
+> "Bot Friday 是支撑我每周活下去的动力" [link](https://www.bot5.ml/events/seminar-minutes-19/)  
 > &mdash; <cite>[@尹伯昊](https://github.com/rickyyin98), [奇迹创坛](https://www.miracleplus.com/)首席实习生</cite>
 >
 
@@ -91,14 +91,14 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 ## Contributors
 
-[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.club/images/0)](https://sourcerer.io/fame/huan/wechaty/bot5.club/links/0)
-[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.club/images/1)](https://sourcerer.io/fame/huan/wechaty/bot5.club/links/1)
-[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.club/images/2)](https://sourcerer.io/fame/huan/wechaty/bot5.club/links/2)
-[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.club/images/3)](https://sourcerer.io/fame/huan/wechaty/bot5.club/links/3)
-[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.club/images/4)](https://sourcerer.io/fame/huan/wechaty/bot5.club/links/4)
-[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.club/images/5)](https://sourcerer.io/fame/huan/wechaty/bot5.club/links/5)
-[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.club/images/6)](https://sourcerer.io/fame/huan/wechaty/bot5.club/links/6)
-[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.club/images/7)](https://sourcerer.io/fame/huan/wechaty/bot5.club/links/7)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/0)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/0)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/1)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/1)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/2)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/2)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/3)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/3)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/4)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/4)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/5)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/5)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/6)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/6)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/7)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/7)
 
 ## Author
 

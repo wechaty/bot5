@@ -66,19 +66,19 @@ while success and frame_number<=frame_count:
     data = result.data.decode("utf-8")
     data_type = result.type
 
-    if data=='bot5.club/start':
+    if data=='bot5.ml/start':
         print("QR Code detected, start data:",data ,frame_number)
-    elif data=='bot5.club/end':
+    elif data=='bot5.ml/end':
         print("QR Code detected, end data:",data ,frame_number)
     else:
         print("QR Code detected, dummy data:",data ,frame_number)
 
-    if start ==-1 and data=='bot5.club/start':
+    if start ==-1 and data=='bot5.ml/start':
         start=frame_number
         print(start,data)
         #reverse search end for long video
         frame_number=frame_count-1
-    elif end == -1 and data=='bot5.club/end':
+    elif end == -1 and data=='bot5.ml/end':
         print("QR Code detected, raw data:",data ,frame_number)
         end=frame_number
         break

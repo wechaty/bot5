@@ -18,17 +18,17 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## 沙龙博客
 
-地址：<https://bot5.club>
+地址：<https://bot5.ml>
 
 大家所做沙龙分享内容，可以通过如下方式上传到我们的博客。
 
 ## 上传地址
 
-<https://github.com/wechaty/bot5.club/tree/master/docs/_posts>
+<https://github.com/wechaty/bot5.ml/tree/master/docs/_posts>
 
 ## 添加作者信息
 
-所有作者的基本资料，都保存在这个文件中：<https://github.com/wechaty/bot5.club/blob/master/docs/_data/authors.yml>
+所有作者的基本资料，都保存在这个文件中：<https://github.com/wechaty/bot5.ml/blob/master/docs/_data/authors.yml>
 
 如果你还不在这个文件中的话，那么将自己添加进去即可，如下格式为例：
 
@@ -49,8 +49,8 @@ qhduan:
 
 ## 上传格式
 
-1. 选择论文笔记所属分类（Category），可以参考之前的[分类列表](https://bot5.club/categories/)
-2. 选择论文笔记所带标签（Tags），可以参考之前的[分类列表](https://bot5.club/tags/)
+1. 选择论文笔记所属分类（Category），可以参考之前的[分类列表](https://bot5.ml/categories/)
+2. 选择论文笔记所带标签（Tags），可以参考之前的[分类列表](https://bot5.ml/tags/)
 3. 沙龙活动会议纪要命名格式为：`XXXX-XX-XX-seminar-minutes-${season}-${episode}.md`。其中`${season}`是沙龙活动第几季；`${episode}`是沙龙活动在本季的活动编号，顺序递增。
 4. 上传博客文章所需文件（如图片、PDF等），所有文件都必须存放在`docs/assets/${year}/`目录下（${year}是四位数字年份）
 5. 所有上传文件，需要符合以下命名规则：

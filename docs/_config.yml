@@ -66,13 +66,13 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://bot5.club"
+      url: "https://bot5.ml"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chatieio"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wechaty/bot5.club"
+      url: "https://github.com/wechaty/bot5.ml"
 
 footer:
   links:
@@ -81,7 +81,7 @@ footer:
       url: "https://twitter.com/chatieio"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wechaty/bot5.club"
+      url: "https://github.com/wechaty/bot5.ml"
 
 defaults:
   # _posts

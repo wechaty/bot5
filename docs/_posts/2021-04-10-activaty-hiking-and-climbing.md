@@ -8,7 +8,7 @@ header:
   teaser: /assets/2021/activity-01/group-1.jpg
 ---
 
-<< Bot Friday 2021年第2次活动纪要: [Bot5 Season 2021 Episode 2](http://www.bot5.club/events/seminar-minutes-2021-02/) <<
+<< Bot Friday 2021年第2次活动纪要: [Bot5 Season 2021 Episode 2](http://www.bot5.ml/events/seminar-minutes-2021-02/) <<
 
 ## Bot Friday Season 2021 Episode 3 Outdoor Activity
 

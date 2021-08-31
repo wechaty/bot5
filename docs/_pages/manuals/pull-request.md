@@ -19,7 +19,7 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 参加 BOT5 沙龙需要提交 Pull Request。
 
-在 <https://github.com/wechaty/bot5.club> 项目中，以 Pull Request 的形式，将自己想分享的主题进行内容提交。
+在 <https://github.com/wechaty/bot5.ml> 项目中，以 Pull Request 的形式，将自己想分享的主题进行内容提交。
 
 注意：请在各自的 Pull Request 的描述中，引用本会议纪要的 issue URL，以便于会议纪要进行追踪。
 
