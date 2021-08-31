@@ -387,3 +387,13 @@ zohinxa:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zohinxa"
+
+conrad:
+  name: "Conrad"
+  bio: "硬核桃5G消息运营总监,5G消息行业专家,致力于降低5G消息行业门槛,推动落地"
+  avatar: "https://avatars.githubusercontent.com/u/57738709"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/IronConrad"
