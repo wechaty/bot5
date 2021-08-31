@@ -1,7 +1,7 @@
 ---
 title: "Conrad"
 excerpt: "5G消息先锋者"
-author: Conrad
+author: conrad
 toc: true
 toc_sticky: true
 toc_label: "Author Profile"
