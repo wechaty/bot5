@@ -397,3 +397,13 @@ conrad:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/IronConrad"
+
+Leo Song:
+  name: "Leo Song"
+  bio: "散装产品经理"
+  avatar: ""
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: ""
+      url: "https://github.com/scy1207-git"
