@@ -2,7 +2,7 @@
 
 huan:
   name: "Huan (李卓桓)"
-  bio: "💬 CS Ph.D Student Major in Conversational AI. Active Angel Investor, Serial Entrepreneur, Microsoft AI MVP, Google ML GDE."
+  bio: "Tencent TVP of Chatbot. Expert in Conversational AI 💬"
   avatar: "https://avatars1.githubusercontent.com/u/1361891?s=460&v=4"
   membership: chair
   links:
@@ -269,7 +269,7 @@ burgerli:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/burgerli"
-      
+
 zhengxuanr:
   name: "郑譞"
   bio: "伽利略资本-董事总经理，喜欢发呆的早期投资人:)"
@@ -315,3 +315,85 @@ caq:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/23LuZ"
+
+Xiaomei-Zhang:
+  name: "张晓梅"
+  bio: "伽信智能科技CTO"
+  avatar: "https://avatars2.githubusercontent.com/u/7217717"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Xiaomei-Zhang"
+
+BrikerMan:
+  name: "Eliyar Eziz (艾力)"
+  bio: "AI Specialist, Google ML GDE. Love NLP, Love Python."
+  avatar: "https://avatars0.githubusercontent.com/u/9368907"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BrikerMan"
+
+likai:
+  name: "likai (李恺)"
+  bio: "无二之旅研发总监，资深后端开发工程师"
+  avatar: "https://avatars0.githubusercontent.com/u/1356974"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tlikai"
+
+
+bibodeng:
+  name: "bibodeng(邓国东)"
+  bio: "IFTip数字资产机器人创始人"
+  avatar: "https://avatars2.githubusercontent.com/u/1180416"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bibodeng"
+
+chuangfengwang:
+  name: "王创峰"
+  bio: "致远星辰联合创始人, 算法工程师"
+  avatar: "https://avatars3.githubusercontent.com/u/24692397"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chuangfengwang"
+
+lvjie:
+  name: "吕杰"
+  bio: "人工智能方向产品经理"
+  avatar: "https://avatars0.githubusercontent.com/u/13212236"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ssssnail"
+
+
+zohinxa:
+  name: "赵欣"
+  bio: "AI产品经理"
+  avatar: "https://avatars2.githubusercontent.com/u/44439119"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zohinxa"
+
+conrad:
+  name: "Conrad"
+  bio: "硬核桃5G消息运营总监,5G消息行业专家,致力于降低5G消息行业门槛,推动落地"
+  avatar: "https://avatars.githubusercontent.com/u/57738709"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/IronConrad"

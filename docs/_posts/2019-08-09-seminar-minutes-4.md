@@ -8,7 +8,7 @@ header:
   teaser: /assets/2019/seminar-4/group-photo.jpg
 ---
 
-<< Bot5 第三次活动纪要: [Bot5 Episode 3](https://bot5.club/events/seminar-minutes-3) <<
+<< Bot5 第三次活动纪要: [Bot5 Episode 3](https://bot5.ml/events/seminar-minutes-3) <<
 
 ## Bot Friday Episode 4
 

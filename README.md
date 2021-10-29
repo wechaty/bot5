@@ -1,6 +1,12 @@
-# BOT Friday CLUB Website
+# BOT Friday CLUB Website [![NPM](https://github.com/wechaty/bot5.ml/actions/workflows/npm.yml/badge.svg)](https://github.com/wechaty/bot5.ml/actions/workflows/npm.yml)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/wechaty/bot5.club.svg)](https://greenkeeper.io/)
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-brightgreen.svg)](https://github.com/Wechaty/wechaty)
+
+## Voice of Members
+
+> "Bot Friday 是支撑我每周活下去的动力" [link](https://www.bot5.ml/events/seminar-minutes-19/)  
+> &mdash; <cite>[@尹伯昊](https://github.com/rickyyin98), [奇迹创坛](https://www.miracleplus.com/)首席实习生</cite>
+>
 
 ## Bot Domain
 
@@ -82,6 +88,17 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+## Contributors
+
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/0)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/0)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/1)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/1)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/2)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/2)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/3)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/3)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/4)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/4)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/5)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/5)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/6)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/6)
+[![contributor](https://sourcerer.io/fame/huan/wechaty/bot5.ml/images/7)](https://sourcerer.io/fame/huan/wechaty/bot5.ml/links/7)
 
 ## Author
 

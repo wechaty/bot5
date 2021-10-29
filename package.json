@@ -1,6 +1,6 @@
 {
   "name": "mm-github-pages-starter",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "Minimal Mistakes GitHub Pages Site Starter for Chatie Org",
   "main": "index.js",
   "directories": {
@@ -35,7 +35,7 @@
     "@chatie/tsconfig": "^0.6.1",
     "@types/glob": "^7.1.1",
     "@types/image-size": "^0.8.0",
-    "file-box": "^0.8.27",
+    "file-box": "^0.12.1",
     "glob": "^7.1.4",
     "image-size": "^0.8.0",
     "is-pr": "^1.1.0",

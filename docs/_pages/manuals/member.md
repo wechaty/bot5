@@ -22,7 +22,7 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## Todo List
 
-1. 每次参加活动之前，在最后一场[沙龙活动纪要](https://bot5.club/categories/#events)中的评论区按照下面模板进行报名：
+1. 每次参加活动之前，在最后一场[沙龙活动纪要](https://bot5.ml/categories/#events)中的评论区按照下面模板进行报名：
     1. 姓名
     1. 公司
     1. 个人简介（100字左右即可）
@@ -35,4 +35,4 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## 相关链接
 
-- BOT5 Repo <https://github.com/wechaty/bot5.club>
+- BOT5 Repo <https://github.com/wechaty/bot5.ml>

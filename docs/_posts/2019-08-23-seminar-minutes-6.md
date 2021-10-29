@@ -8,7 +8,7 @@ header:
   teaser: /assets/2019/seminar-6/group-photo.jpg
 ---
 
-<< Bot5 第五次活动纪要: [Bot5 Episode 5](https://bot5.club/events/seminar-minutes-5) <<
+<< Bot5 第五次活动纪要: [Bot5 Episode 5](https://bot5.ml/events/seminar-minutes-5) <<
 
 ## Bot Friday Episode 6
 
@@ -66,7 +66,7 @@ Elaine CHANG（常青）, 李靖, Brenda BAI（白英娜）, andrewdyhhub（丁�
 
 常青， Microsoft Bot Framework Product Manager
 
-<< microsoft-bot-intro: [blog](https://www.bot5.club/microsoft-bot-intro/) <<
+<< microsoft-bot-intro: [blog](https://www.bot5.ml/microsoft-bot-intro/) <<
 
 ### 2 Bot Builder Adapter for Wechat Individual Account
 
@@ -74,7 +74,7 @@ Elaine CHANG（常青）, 李靖, Brenda BAI（白英娜）, andrewdyhhub（丁�
 
 Microsoft Regional Director (RD), Most Valuable Professional (MVP) in Artificial Intelligence Category
 
-<< Connect to Wechat: Bot Builder Adapter for Wechat Individual Account: [blog](https://www.bot5.club/talks/botbuilder-wechaty-adapter/) <<
+<< Connect to Wechat: Bot Builder Adapter for Wechat Individual Account: [blog](https://www.bot5.ml/talks/botbuilder-wechaty-adapter/) <<
 
 ## 轮值主席任命仪式
 
