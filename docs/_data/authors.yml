@@ -407,3 +407,13 @@ weishi-zhang:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/weishi-zhang"
+
+neilzwh:
+  name: "张文浩"
+  bio: "独到科技创始人，清华大学计算机系人工智能博士，AI赋能私域流量运营服务。"
+  avatar: "https://avatars.githubusercontent.com/u/14857091"
+  membership: chair
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/neilzwh"
